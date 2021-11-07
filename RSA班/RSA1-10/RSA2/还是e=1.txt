@@ -1,0 +1,30 @@
+import gmpy2
+import libnum
+import uuid
+
+flag="flag{"+str(uuid.uuid4())+"}"
+print(flag)
+m=libnum.s2n(flag)
+
+p1=libnum.generate_prime(64)
+q1=libnum.generate_prime(64)
+p2=libnum.generate_prime(64)
+q2=libnum.generate_prime(64)
+p3=libnum.generate_prime(64)
+q3=libnum.generate_prime(64)
+e=1
+c1=pow(m,e,p1*q1)
+c2=pow(m,e,p2*q2)
+c3=pow(m,e,p3*q3)
+print("n1=",p1*q1)
+print("c1=",c1)
+print("n2=",p2*q2)
+print("c2=",c2)
+print("n3=",p3*q3)
+print("c3=",c3)
+n1= 170173038942121155998485244766227678753
+c1= 59564771555968833327414963802445671996
+n2= 266594095477519191679585844523589717553
+c2= 247038636126832140059267102981221400538
+n3= 242333123563921764281876705957173834943
+c3= 117604624206532850706153412992811121386

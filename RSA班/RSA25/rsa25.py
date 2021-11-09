@@ -13,9 +13,6 @@ while 1:
     e1 = libnum.generate_prime(5) * tmp
     e2 = libnum.generate_prime(5) * tmp
     tmp2 = gmpy2.bit_length(m ** tmp) - gmpy2.bit_length(n)
-    print(tmp2)
-    print(gmpy2.bit_length(n))
-    print(gmpy2.bit_length(m ** tmp))
     if e1 != e2 and tmp2 < 5:
         break
     k += tmp2 // 2

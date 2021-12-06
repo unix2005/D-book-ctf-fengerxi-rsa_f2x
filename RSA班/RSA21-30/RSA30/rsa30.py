@@ -2,6 +2,7 @@ import gmpy2
 import libnum
 import uuid
 
+
 flag = "flag{" + str(uuid.uuid4()) + "}"
 print(flag)
 m = libnum.s2n(flag)

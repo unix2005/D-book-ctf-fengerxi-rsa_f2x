@@ -1,6 +1,6 @@
+import sympy
+import gmpy2
 import libnum
-from z3 import *
-
 
 p1=0x63367a2b947c21d5051144d2d40572e366e19e3539a3074a433a92161465543157854669134c03642a12d304d2d9036e6458fe4c850c772c19c4eb3f567902b3
 q1=0x79388eb6c541fffefc9cfb083f3662655651502d81ccc00ecde17a75f316bc97a8d888286f21b1235bde1f35efe13f8b3edb739c8f28e6e6043cb29569aa0e7b
@@ -8,24 +8,21 @@ c=0x5a1e001edd22964dd501eac6071091027db7665e5355426e1fa0c6360accbc013c7a36da8879
 e=0x10005
 d=0xae285803302de933cfc181bd4b9ab2ae09d1991509cb165aa1650bef78a8b23548bb17175f10cddffcde1a1cf36417cc080a622a1f8c64deb6d16667851942375670c50c5a32796545784f0bbcfdf2c0629a3d4f8e1a8a683f2aa63971f8e126c2ef75e08f56d16e1ec492cf9d26e730eae4d1a3fecbbb5db81e74d5195f49f1
 
-
-
-solver=Solver()
-p=Int("p")
-q=Int("q")
+p = sympy.symbols('p')
+q = sympy.symbols('q')
 for k in range(e,1,-1):
-    if (e * d - 1) % k == 0:
-        print(k)
-        phi = (e * d - 1) // k
-        print(phi)
-        solver.add((p-1)*(q-1)==phi)
-        solver.add((q1*q+p1*p-1==p*q))
-        if solver.check()==sat:
-            print(solver.model())
-            break
+    if (e*d-1)%k==0:
+        phi=(e*d-1)//k
+        f1 = (p - 1) * (q - 1) - phi
+        f2 = q1 * q + p1 * p - p * q - 1
+        c1 = sympy.solve([f1, f2], [p, q])
+        print(c1)
+        p = int(c1[1][0])
+        print(p)
+        q = int(c1[1][1])
+        print(q)
+        break
 
-p = 13037022248776485455765657990760031649738172382291971431270088348293679826726124550312158873896310916822494678913767968443939161716318872022577275748319923
-q = 10128772559601471072353923779846641051004718955169494777946479385229803757744931078384914461587380307767146578124123558724977391368157332433788725638715891
 n=p*q
 m=pow(c,d,n)
 print(libnum.n2s(m))

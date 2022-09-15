@@ -1,27 +1,30 @@
-#coding:utf-8
-import gmpy2
-from Crypto.Util.number import *
+import base64
 
-p = getPrime(512)
-q = getPrime(512)
-r = getPrime(512)
-e = getPrime(32)
-print("e=",e)
-n = p*q*r
-phi = (p-1)*(q-1)*(r-1)
-d = gmpy2.invert(e,phi)
-print("d=",d)
-dp = d%((q-1)*(r-1))
-dq = d%((p-1)*(r-1))
-dr = d%((p-1)*(q-1))
-flag = 'flag{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm'
-m = bytes_to_long(flag.encode())
-c = pow(m,e,n)
+def decode3(ans):
+    s = ''
+    for i in ans:
+        x = ord(i) - 25
+        x = x ^ 36
+        s += chr(x)
 
-print("p=",p)
-print("q=",q)
-print("r=",r)
-print("dp=",dp)
-print("dq=",dq)
-print("dr=",dr)
-print("c=",c)
+    return s
+
+def decode2(ans):
+    s = ''
+    for i in ans:
+        x = i ^ 36  # 异或36, i为字符串，要ord转换成ASCII码数字
+        x = x - 36
+        s += chr(x)
+    return s
+
+def decode1(ans):
+    return base64.b32decode(ans)
+
+final = 'UC7KOWVXWVNKNIC2XCXKHKK2W5NLBKNOUOSK3LNNVWW3E==='
+
+a1=decode1(final)
+print(a1)
+a2=decode2(a1)
+print(a2)
+a3=decode3(a2)
+print(a3)

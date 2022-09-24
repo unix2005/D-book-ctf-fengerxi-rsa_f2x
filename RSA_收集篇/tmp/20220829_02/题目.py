@@ -4,7 +4,7 @@ from secret import flag
 table='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 pad=100-len(flag)
 for i in range(pad):
-    flag+=random.choice(table).encode()
+    flag+=random.choice(table).encode()
 e=343284449
 m=bytes_to_long(flag)
 assert m>(1<<512)

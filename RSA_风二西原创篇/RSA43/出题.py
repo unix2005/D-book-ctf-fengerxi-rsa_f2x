@@ -3,7 +3,7 @@ import libnum
 import uuid
 
 flag = "flag{" + str(uuid.uuid4()) + "}"
-print(flag)
+# print(flag)
 p = libnum.generate_prime(512)
 q = libnum.generate_prime(512)
 e = 65537
@@ -15,6 +15,5 @@ h=pow(d,e,n)
 print("n=",n)
 print("e=",e)
 print("c=",c)
-print("d=",d)
 print("h=",h)
 

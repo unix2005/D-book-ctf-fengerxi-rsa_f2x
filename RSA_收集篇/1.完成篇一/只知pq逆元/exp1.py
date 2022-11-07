@@ -12,18 +12,18 @@ d = 1222976208025679322724317523765507336450828845079159372830085100008068018501
 p = sympy.symbols('p')
 q = sympy.symbols('q')
 for k in range(e,1,-1):
-    if (e*d-1)%k==0:
-        phi=(e*d-1)//k
-        print(phi)
-        print(k)
-        f1 = (p - 1) * (q - 1) - phi
-        f2 = q1 * q + p1 * p - p * q - 1
-        c1 = sympy.solve([f1, f2], [p, q])
-        p = int(c1[1][0])
-        print(p)
-        q = int(c1[1][1])
-        print(q)
-        break
+    try:
+        if (e*d-1)%k==0:
+            phi=(e*d-1)//k
+            f1 = (p - 1) * (q - 1) - phi
+            f2 = q1 * q + p1 * p - p * q - 1
+            c1 = sympy.solve([f1, f2], [p, q])
+            p = int(c1[1][0])
+            print(p)
+            q = int(c1[1][1])
+            print(q)
+    except:
+        continue
 
 n=p*q
 m=pow(c,d,n)

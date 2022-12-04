@@ -19,6 +19,7 @@ x = 2489675338913008165916767729518560336856145680876094282853076804910441748030
 kphi=e1*e2*x-e1+e2
 print(kphi)
 d1,a,b=libnum.xgcd(e1,kphi)
+print(d1,a,b)
 m1=pow(c1,d1,n)
 print(libnum.n2s(m1))
 d2,a,b=libnum.xgcd(e2,kphi)

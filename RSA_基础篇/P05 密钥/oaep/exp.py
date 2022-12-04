@@ -19,12 +19,11 @@ d = gmpy2.invert(e, phi)
 
 with open("flag.pem", "rb") as f:
     c = f.read()
-c = libnum.s2n(c)
-m = pow(c, d, n)
-print(libnum.n2s(int(m)))
-rsa_components = (int(n), e, int(d), p, q)
-arsa = RSA.construct(rsa_components)
-rsakey = RSA.importKey(arsa.exportKey())
-rsakey = PKCS1_OAEP.new(rsakey)
-decrypted = rsakey.decrypt(c)
-print(decrypted)
+
+from Crypto.PublicKey import RSA
+from Crypto.Cipher import PKCS1_OAEP
+import libnum
+
+rsakey = RSA.importKey(key)
+cipher = PKCS1_OAEP.new(rsakey)
+message = cipher.decrypt(c)

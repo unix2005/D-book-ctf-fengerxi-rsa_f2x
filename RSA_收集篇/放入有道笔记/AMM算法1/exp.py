@@ -57,7 +57,6 @@ def AMM(x,e,p):
     return roots
 def check(m):
     if 'flag' in m:
-        print(m)
         return True
     else:
         return False

@@ -1,6 +1,5 @@
 from Crypto.Util.number import *
 import gmpy2
-from flag import m
 
 p = getPrime(1024)
 q = getPrime(1024)

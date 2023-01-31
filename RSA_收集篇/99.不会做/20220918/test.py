@@ -38,6 +38,7 @@ g1=g%N
 print(g1)
 print(gmpy2.bit_length(g1))
 print(g1==(ff*ff*p)%N)
+print(k)
 print(g1+k*N==ff*p*ff)
 print(g1*s*s//(N**2))
 # *N+p==g1*s*s)

@@ -1,9 +1,8 @@
 import libnum
 import gmpy2
-
-# 生成随机素数
-m = "flag{20d6e2da95dcc1fa5f5432a436c4be18}"
-m = libnum.s2n(m)
+import uuid
+flag = "flag{" + str(uuid.uuid4()) + "}"
+m = libnum.s2n(flag)
 while True:
     p = libnum.generate_prime(454)
     q = libnum.generate_prime(454)

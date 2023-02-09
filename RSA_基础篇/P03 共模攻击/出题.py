@@ -1,8 +1,8 @@
 import libnum
 import gmpy2
-
-flag = 'flag{01d80670b01b654fe4831a3e81870734}'
-
+import uuid
+flag = "flag{" + str(uuid.uuid4()) + "}"
+m = libnum.s2n(flag)
 p = libnum.generate_prime(1024)
 q = libnum.generate_prime(1024)
 n1 = p * q

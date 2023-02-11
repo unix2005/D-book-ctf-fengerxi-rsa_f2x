@@ -14,19 +14,13 @@ m=[(q-1)*(r-1),(p-1)*(r-1),(p-1)*(q-1)] # 模数
 
 
 """扩展欧几里得"""
-
-
 def exgcd(a, b):
     if 0 == b:
         return 1, 0, a
     x, y, q = exgcd(b, a % b)
     x, y = y, (x - a // b * y)
     return x, y, q
-
-
 """扩展中国剩余定理"""
-
-
 def CRT():
     if n == 1:
         if m[0] > a[0]:
@@ -37,7 +31,6 @@ def CRT():
     for i in range(n):
         if m[i] <= a[i]:
             return -1;
-
         x, y, d = exgcd(m[0], m[i])
         if (a[i] - a[0]) % d != 0:
             return -1;

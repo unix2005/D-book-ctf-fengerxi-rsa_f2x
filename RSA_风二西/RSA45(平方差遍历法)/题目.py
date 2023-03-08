@@ -8,7 +8,7 @@ p = getPrime(2048)
 q = gmpy2.next_prime(p)
 for i in range(3600):
     if i%100 ==0:
-        #print(i)
+        print(i)
         q = gmpy2.next_prime(q)
 
 n = p * q

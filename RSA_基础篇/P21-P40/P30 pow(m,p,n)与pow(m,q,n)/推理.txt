@@ -1,0 +1,35 @@
+x=pow(m,p,n)
+y=pow(m,q,n)
+
+x=m^p%n 一
+y=m^q%n 二
+
+x=m^p%n
+两边同时平方个q
+x^q=(m^p)^q%n
+x^q=m^n%n
+x^q=(m^q)^p%n
+x^q=(m^q%n)^p%n
+将式 二代入
+x^q=y^p%n
+两边同时平方个p
+(x^q)^p=(y^p)^p%n
+x^(q*p)=(y^p)^p%n
+x^n=(y^p)^p%n
+
+x^n=(y^p)^p+kn
+x^n=(y^p)^p+kpq
+#两边同时模p
+x^n%p=(y^p)^p%p+kpq%p
+x^n%p=(y^p)^p%p
+#根据费马小定理
+a^p-1%p=1  a^p%p=a
+
+x^n%p=(y^p)%p
+x^n%p=y%p
+
+x^n=y+kp
+x^n-y=kp
+kp=x^n-y
+利用公约数求p
+p=gcd(x^n-y,n)

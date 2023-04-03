@@ -1,0 +1,17 @@
+https://blog.csdn.net/luochen2436/article/details/129915828
+
+leak = (n + p) % (q-1)
+
+l=(n+p)%(q-1)
+l=(pq+p)%(q-1)
+l=p(q+1)%(q-1)
+#(q+1)%(q-1)
+l=(p%(q-1)*(q+1)%(q-1))%(q-1)
+#(q+1)%(q-1)==2
+l=(p%(q-1)*2)%(q-1)
+#p%(q-1)=p-q+1? p%q=p-q?
+l=2*(p-q+1)%(q-1)
+
+#形成一个方程
+l=2*(p-q+1)
+n=p*q

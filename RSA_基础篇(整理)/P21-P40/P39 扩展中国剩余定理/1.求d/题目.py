@@ -6,13 +6,14 @@ p = getPrime(512)
 q = getPrime(512)
 r = getPrime(512)
 e = getPrime(32)
+print(e)
 n = p*q*r
 phi = (p-1)*(q-1)*(r-1)
 d = gmpy2.invert(e,phi)
 dp = d%((q-1)*(r-1))
 dq = d%((p-1)*(r-1))
 dr = d%((p-1)*(q-1))
-flag = 'flag{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}'+PADDING
+flag = 'flag{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}'
 m = bytes_to_long(flag.encode())
 c = pow(m,e,n)
 

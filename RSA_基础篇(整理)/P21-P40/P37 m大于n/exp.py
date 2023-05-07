@@ -15,7 +15,6 @@ print(m1)
 for k in range(100000,1,-1):
     m=m1+k*n
     flag=libnum.n2s(int(m))
-    print(flag)
     if  b"flag" in flag:
         print(flag)
         exit()

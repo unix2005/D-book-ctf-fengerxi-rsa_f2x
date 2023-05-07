@@ -7,9 +7,9 @@
 #### 3.rsa收集的题目
 
 网友写的相关博客
-
 https://www.cnblogs.com/sigenzhe/p/15641699.html
 
-练习地址(vps估计快过期了)
+3tefanie丶zhou师傅
+https://blog.csdn.net/luochen2436
 
 

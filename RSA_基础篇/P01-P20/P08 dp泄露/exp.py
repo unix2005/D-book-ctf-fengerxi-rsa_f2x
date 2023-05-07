@@ -11,7 +11,7 @@ for i in range(1, 65537):
     if n % p == 0:
         q = n // p
         break
-print(p)
+
 print(q)
 phi_n = (p - 1) * (q - 1)
 d = gmpy2.invert(e, phi_n)
@@ -19,3 +19,4 @@ m = pow(c, d, n)
 print(m)
 flag = libnum.n2s(int(m)).decode()
 print(flag)
+

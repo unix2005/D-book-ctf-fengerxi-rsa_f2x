@@ -21,4 +21,4 @@ aa = [a, b, c, d]
 for i in aa:
     if gmpy2.is_prime(i):
         print(i)
-    # print(libnum.n2s(int(i)))
+    print(libnum.n2s(int(i)))

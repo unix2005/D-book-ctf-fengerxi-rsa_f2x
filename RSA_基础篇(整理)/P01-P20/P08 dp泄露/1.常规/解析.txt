@@ -1,13 +1,5 @@
 
 
-
-
-
-
-
-
-
-
 已知公钥n,e以及dp
 其中,dp = d mod (p-1)
 已知：
@@ -34,21 +26,3 @@ x的范围为 (0,e)
 x∗(p−1)+1=dp∗e
 求出p-1方法，遍历(0,e)的范围，其中肯定有一个p可以被n整除，那么求出p和q
 
-解析2：
-
-dp=d mod p-1
-#两边同时乘上e
-dp*e=de mod p-1
-因为de%phi=1
-de=kphi+1
-de=k(p-1)*(q-1)+1
-dpe=k(p-1)(q-1)+1+(p-1)*k
-dpe=1+(p-1)k
-dp*e%(p-1)=1
-模数p dp和e构成一对密钥。
-a^e*dp%p=a
-a^e*dp-a=kp
-a^e*dp%n-a%n=kp%n
-a^e*dp%n-a=kp+kn
-a^e*dp%n-a=kp+kpq
-a^e*dp%n-a=kp

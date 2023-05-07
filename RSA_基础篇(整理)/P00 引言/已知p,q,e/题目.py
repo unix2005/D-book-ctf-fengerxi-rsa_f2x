@@ -14,6 +14,5 @@ c=pow(m,e,n)
 
 print("p=",p)
 print("q=",q)
-print ("n=",n)
 print ("e=",e)
 print ("c=",c)

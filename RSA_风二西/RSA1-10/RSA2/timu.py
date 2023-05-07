@@ -3,6 +3,7 @@ import libnum
 import uuid
 
 flag = "flag{" + str(uuid.uuid4()) + "}"
+print(len(flag))
 print(flag)
 m = libnum.s2n(flag)
 

@@ -11,21 +11,22 @@ q2=n//(p*p*p*r)
 q,s=gmpy2.iroot(q2,2)
 q=11591898166184703407170679039468830396172686422497264355129193372385309176446185445291532443964976728310025509569413731127733013564906117798148077662926901
 
-print(q)
+print("q=",q)
 phi=p*p*q*(p-1)*(q-1)*(r-1)
-for i in range(0,8):
+for i in range(2,8):
     try:
         e=i*n
         t = libnum.gcd(e, phi)
+        print(t)
         try:
             d=libnum.invmod(e//t,phi)
-            print(d)
+            print("d=",d)
         except:
             continue
-        m=pow(c,d,n)
-        print(m)
-        m1, s = gmpy2.iroot(m, t)
-        print(m1,s)
-        print(libnum.n2s(m1))
+        # m=pow(c,d,n)
+        # print(m)
+        # m1, s = gmpy2.iroot(m, t)
+        # print(m1,s)
+        # print(libnum.n2s(m1))
     except:
         continue

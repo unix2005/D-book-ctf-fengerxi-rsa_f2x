@@ -1,0 +1,10 @@
+
+NSSCTF Round#11 --- 密码个人赛 wp
+ez_signin
+
+num1 = (pow(p,e,n)-pow(q,e,n)) % n
+num2 = pow(p-q,e,n)
+
+n1+n2
+p^e-pqe+q^e+p^e-q^e+kn
+存在p的公约数

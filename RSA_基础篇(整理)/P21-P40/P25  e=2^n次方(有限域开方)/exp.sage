@@ -12,5 +12,3 @@ def qr(n, e, c):
     return result
 
 for i in qr(n, e, c): print(n2s(i))
-
-for i in qr(n, e, c): print(n2s(i))

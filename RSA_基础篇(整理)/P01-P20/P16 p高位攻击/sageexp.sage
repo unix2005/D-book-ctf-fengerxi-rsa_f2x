@@ -12,7 +12,6 @@ def phase3(high_p, n):
     R. < x > = PolynomialRing(Zmod(n), implementation='NTL')
     p = high_p + x
     x0 = p.small_roots(X=2 ^ kbits, beta=0.1)[0]
-
     P = int(p(x0))
     Q = n // P
     assert n == P * Q

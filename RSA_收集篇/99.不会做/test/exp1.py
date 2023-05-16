@@ -4,5 +4,7 @@ import random
 
 p=getPrime(512)
 q=getPrime(512)
-n=p**2+q**2
-print(n)
+n=p*q
+
+print(p==pow(p,q,n))
+print(q==pow(q,p,n))

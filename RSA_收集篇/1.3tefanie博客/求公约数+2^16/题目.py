@@ -5,8 +5,11 @@ import uuid
 
 flag = "flag{" + str(uuid.uuid4()) + "}"
 m = libnum.s2n(flag)
-p = libnum.generate_prime(512)
-q = libnum.generate_prime(512)
+while 1:
+    p = libnum.generate_prime(512)
+    q = libnum.generate_prime(512)
+    if p>q:
+        break
 assert p > q
 n = p*q
 e = 65536  #2**16

@@ -1,0 +1,26 @@
+
+1.pq接近，直接分解N
+求出m
+2.阶乘，用到威尔逊定理
+(p-1)!%p=-1
+
+m = N * flag % a
+m=flag*(p-1)!%a
+m=flag*(p-1)!+ka
+#两边同时模p
+m%p=flag*(p-1)!%p
+m%p=flag*(-1)!%p
+m*(-1^-1)%p=flag%p
+flag%p=m1=m*(-1^-1)%p
+
+接着构造一个m2%q,因为p<q,需要继续阶乘上去
+for i in rang(p,q):
+    m=m*i%a
+形成一个 m=flag*(q-1)!%a
+同理 构成
+flag%q=m2=m*(-1^-1)%q
+
+然后使用中国剩余定理
+crt（[m1,m2],[p,q]）
+计算flag
+

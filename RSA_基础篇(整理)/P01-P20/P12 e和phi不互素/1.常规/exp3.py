@@ -1,6 +1,6 @@
 import gmpy2
 from Crypto.Util.number import *
-
+import libnum
 
 # 当e约去公约数后与phi互素
 def decrypt(p, q, e, c):
@@ -8,6 +8,7 @@ def decrypt(p, q, e, c):
     phi = (p - 1) * (q - 1)
     t = gmpy2.gcd(e, phi)
     d = gmpy2.invert(e // t, phi)
+    print(d)
     m = pow(c, d, n)
     msg = gmpy2.iroot(m, t)
     if msg[1]:

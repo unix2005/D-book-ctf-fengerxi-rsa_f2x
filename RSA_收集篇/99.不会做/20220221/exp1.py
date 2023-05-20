@@ -13,20 +13,15 @@ q=115918981661847034071706790394688303961726864224972643551291933723853091764461
 
 print("q=",q)
 phi=p*p*q*(p-1)*(q-1)*(r-1)
-for i in range(2,8):
+for i in range(0,8):
     try:
         e=i*n
         t = libnum.gcd(e, phi)
-        print(t)
-        try:
-            d=libnum.invmod(e//t,phi)
-            print("d=",d)
-        except:
-            continue
-        # m=pow(c,d,n)
-        # print(m)
-        # m1, s = gmpy2.iroot(m, t)
-        # print(m1,s)
-        # print(libnum.n2s(m1))
+        d=libnum.invmod(e,phi)
+        m=pow(c,d,n)
+        print(m)
+        m1, s = gmpy2.iroot(m, t)
+        print(m1,s)
+        print(libnum.n2s(int(m1)))
     except:
         continue

@@ -1,9 +1,9 @@
 import random
 from Crypto.Util.number import *
 import gmpy2
-from flag import flag
+# from flag import flag
 
-
+flag=""
 flag = bytes_to_long(flag)
 p = getPrime(512)
 q = getPrime(512)

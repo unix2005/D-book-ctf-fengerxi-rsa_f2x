@@ -3,8 +3,8 @@ import libnum
 import uuid
 import gmpy2
 flag="flag{"+str(uuid.uuid4())+"}"
-m=libnum.s2n(flag)
 
+m=libnum.s2n(flag)
 p=libnum.generate_prime(512)
 q=gmpy2.next_prime(p)
 n=p*q

@@ -1,0 +1,12 @@
+
+由于r是一个大素数，p^2 mod r 是易计算的，所以我们利用第一个同余式构建一个在模r下的一元多项式环，然后求解p。
+可能会存在多个符合条件的p，我们简单判断一下其bit长度是否是1024以及是否是素数即可找到想要的p。
+R.<x> = Zmod(r)[]
+f = x^2-a
+f = f.monic()
+res = f.roots()
+for i in res:
+    p = int(i[0])
+    if p.bit_length()==1024 and isPrime(p) ==1:
+            print(p)
+            break

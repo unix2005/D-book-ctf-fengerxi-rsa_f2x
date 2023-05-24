@@ -1,0 +1,6 @@
+
+
+由代码可知，gift=p/q，但是是一个小数。
+因为n=p*q，可以得到n*gift=p*q*p/q=p**p,直接在Python中开方的话由于gift是小数，会导致精度不够，
+但是sage中使用sqrt()进行开平方的话精度是满足。
+所以sqrt(n*gift)开方得到p，再对其进行整型转换p=int(p)，进而得到q=n//p,接下来就是普通RSA解密。

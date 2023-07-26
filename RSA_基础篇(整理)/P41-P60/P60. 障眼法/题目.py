@@ -1,6 +1,8 @@
 from Crypto.Util.number import *
 import sympy
 from flag import flag
+
+
 a=getPrime(512)
 p=sympy.nextprime(13*a)
 q=sympy.prevprime(25*a)

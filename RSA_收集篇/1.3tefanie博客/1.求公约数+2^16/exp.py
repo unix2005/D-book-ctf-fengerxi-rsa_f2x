@@ -12,8 +12,6 @@ q = n//p
 print(n==p*q)
 x0=gmpy2.invert(p,q)
 x1=gmpy2.invert(q,p)
-
-
 cs = [c]
 for i in range(16):
     ps = []

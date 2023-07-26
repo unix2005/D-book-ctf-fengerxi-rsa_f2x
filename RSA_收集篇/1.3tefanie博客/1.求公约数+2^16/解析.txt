@@ -8,3 +8,6 @@ num2 = pow(p-q,e,n)
 n1+n2
 p^e-pqe+q^e+p^e-q^e+kn
 存在p的公约数
+
+
+后面是rabin算法

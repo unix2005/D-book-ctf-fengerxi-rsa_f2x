@@ -1,0 +1,18 @@
+
+a=getPrime(512)
+p=sympy.nextprime(13*a)
+q=sympy.prevprime(25*a)
+number2=p*q
+
+这个里可以分解n2，因为
+
+def crypto01(number1, number2, number3):
+    number4 = 1
+    while number2 > 0:
+        if number2 % 2:
+            number4 = (number4 * number1) % number3
+        number1 = number1 ** 2 % number3
+        number2 //= 2
+    return number4
+
+这个函数其实个 pow函数

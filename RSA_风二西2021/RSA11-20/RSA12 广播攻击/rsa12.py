@@ -3,18 +3,18 @@ import libnum
 import gmpy2
 import random
 
-# 111
+
 flag = "flag{" + str(uuid.uuid4()) + "}"
 print(flag)
 m = libnum.s2n(flag)
-p = libnum.generate_prime(1024)
-q = libnum.generate_prime(1024)
+p = libnum.generate_prime(512)
+q = libnum.generate_prime(512)
 n1 = p * q
-p = libnum.generate_prime(1024)
-q = libnum.generate_prime(1024)
+p = libnum.generate_prime(512)
+q = libnum.generate_prime(512)
 n2 = p * q
-p = libnum.generate_prime(1024)
-q = libnum.generate_prime(1024)
+p = libnum.generate_prime(512)
+q = libnum.generate_prime(512)
 n3 = p * q
 while 1:
     e = random.randint(10, 20)

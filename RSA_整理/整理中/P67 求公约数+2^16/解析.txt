@@ -1,0 +1,16 @@
+
+原题为NSSCTF Round#11 --- 密码个人赛 wp
+ez_signin
+
+n2=(p-q)^e%n
+#(p-q)^2%n=(p^2+q^2)%n
+#(p-q)^3%n=(p^3-q^3)%n
+n2=(p^e+q^e)%n
+
+#n1+n2
+n1+n2=2*p^e%n
+n1+n2=kp
+p=gcd(n1+n2,n)
+
+
+后面是rabin算法

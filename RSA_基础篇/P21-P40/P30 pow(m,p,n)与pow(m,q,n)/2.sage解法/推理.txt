@@ -1,0 +1,18 @@
+ c1, c2 = pow(m1, p, n), pow(m1, q, n)
+
+根据费马小定理可以得到
+k1p+m=c1
+k2q+m=c2
+
+重要推理
+c1*c2=（k1p+m）*（k2q+m）
+c1*c2=k1p*k2*q+(k1p+k2q)*m+m^2
+
+(c1+c2)m=2m^2+(k1p+k2q)*m
+
+
+m^2-(c1+c2)m+c1*c2
+m^2-2m^2-(k1p+k2q)*m+k1p*k2*q+(k1p+k2q)*m+m^2
+k1p*k2*q
+
+所以m^2-(c1+c2)m+c1*c2 =0 mod n

@@ -1,5 +1,0 @@
-
-论文：《A Note on Euler’s Factoring Problem-Brillhart_Euler_factoring_2009》
-N=ma**2+nb**2
-N=mc**2+nd**2
-p=gcd(N,ad-bc)

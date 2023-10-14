@@ -1,0 +1,11 @@
+c=pow(m1,e,n)
+m1=m*(p-1)!%p
+#(p-1)!%p=-1
+
+m1%p=m*-1%p
+#两边同时除上-1，也就是乘上的逆元inmod(-1,p)，
+
+m1*inmod(-1,p)%p=m%p
+#m<p
+m1*inmod(-1,p)%p=m
+m=m1*inmod(-1,p)%p

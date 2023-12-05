@@ -9,11 +9,19 @@ p=libnum.generate_prime(512)
 q=gmpy2.next_prime(p)
 n=p*q
 e=65537
+<<<<<<< HEAD
 for i in range(1,p):
     m=(m*i)%n
 #m1=(m*-1)%p
 print(m)
 c=pow(m,e,n)
+=======
+# for i in range(1,p):
+#     m=(m*i)%n
+m1=(m*-1)%p
+print(m1)
+c=pow(m1,e,n)
+>>>>>>> origin/master
 print("c=",c)
 print("n=",n)
 

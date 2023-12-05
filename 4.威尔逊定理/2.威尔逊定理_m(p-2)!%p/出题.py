@@ -9,11 +9,8 @@ p=libnum.generate_prime(512)
 q=gmpy2.next_prime(p)
 n=p*q
 e=65537
-
-for i in range(1,p-1):
-    m=(m*i)%n
-for j in range(1,q-1):
-    m=(m*j)%n
+# for i in range(1,p-1):
+#     m=(m*i)%n
 
 c=pow(m,e,n)
 print("c=",c)

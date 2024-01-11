@@ -1,0 +1,135 @@
+
+https://www.bilibili.com/video/BV1bV4y1q7Ro/
+
+费马小定理
+p是素数
+a^p-1%p=1
+a^p%p=a%p
+
+k1 =pow(g,a1*(p-1),n)
+k1 =g^(a1*(p-1))%n
+k1 =g^(a1*(p-1))+kn
+#两边同时模上p
+k1%p=g^(a1*(p-1))%p+kn%p
+k1%p=g^(a1*(p-1))%p
+k1%p=(g^a1)^(p-1)%p
+#根据费马小定理
+k1%p=1
+k1-1=kp
+#利用公约数的原理
+p=gcd(k1-1,n)
+q=n//p
+
+
+c1 = (pow(k1,b1,n)*flag)%n
+c1=(k1^b1%n*flag)%n
+c1=(k1^b1%n*flag%n)%n
+c1=(k1^b1*flag)%n
+c1=(k1^b1*flag)+kn
+
+#两边同时模上p
+c1%p=(k1^b1*flag)%p
+c1%p=(k1^b1%p*flag%p)%p
+#k1%p=1
+c1%p=((k1%p)^b1)%p*flag%p)%p
+c1%p=(1^b1)%p*flag%p)%p
+c1%p=(1*flag%p)%p
+c1%p=flag%p
+c1%p=flag
+
+
+费马小定理
+a,素数p，a不能是p的倍数
+1.a^p%p=a%p
+2.a^p-1%p=1
+
+k1 = pow(g,a1*(p-1),n)
+k2 = pow(g,a2*(q-1),n)
+
+k1 = g^[a1*(p-1)]%n
+#
+k1 = g^[a1*(p-1)]+kn
+#两边同时模p
+k1%p= g^[a1*(p-1)]%p
+#2^(2*2)=(2^2)^2=16
+k1%p= (g^a1)^(p-1)%p
+#费马小定理
+#a^p-1%p=1
+# (g^a1)^(p-1)%p =1
+k1%p= (g^a1)^(p-1)%p
+
+结论1： k1%p=1
+k1%p=1
+k1-1=kp
+p=gcd(k1-1,n)
+结论2： p=gcd(k1-1,n)
+
+结论1： k1%p=1
+结论2： p=gcd(k1-1,n)
+
+
+c1 = (pow(k1,b1,n)*flag)%n
+
+c1=(k1^b1%n*flag)%n
+c1=(k1^b1%n*flag%n)%n #((a * b) % p * c) %p= (a * (b * c) % p) % p
+
+c1=(k1^b1*flag)%n
+c1=(k1^b1*flag)+kn
+#两边同时模上p
+c1%p=(k1^b1*flag)%p
+
+c1%p=(k1^b1%p*flag%p)%p ##((a * b) % p * c) %p= (a * (b * c) % p) % p
+
+#k1^b1%p ##a ^ b % p = ((a % p) ^ b) % p
+k1^b1%p=(k1%p^b1)%p
+
+
+c1%p=((k1%p^b1)%p*flag%p)%p
+c1%p=((1^b1)%p*flag%p)%p
+
+c1%p=(flag%p)%p
+#flag<p
+结论3：flag=c1%p
+
+进阶题
+flag>p
+c1%p=(flag%p)%p
+#flag>p
+结论3：flag1=flag%p=c1%p
+
+
+
+#flag>p
+
+结论1： k1%p=1
+结论2： p=gcd(k1-1,n)
+结论3：flag%p=c1%p
+
+
+结论1： k2%q=1
+结论2： q=gcd(k2-1,n)
+结论3：flag%q=c2%q
+
+flag1=flag%p=c1%p
+flag2=flag%q=c2%q
+
+flag1,flag2
+p,q
+
+
+flag1=flag%p
+flag2=flag%q
+中国剩余定理
+#flag>p,flag>q,flag>p*q
+flag=crt([flag1,flag2],[p,q])
+
+
+6=11%5
+4=11%7
+
+
+
+
+
+
+

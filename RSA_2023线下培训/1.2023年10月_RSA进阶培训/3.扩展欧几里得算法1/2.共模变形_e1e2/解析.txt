@@ -1,0 +1,73 @@
+c1 = pow(m, e1, n)
+c2 = pow(m, e2, n)
+gcd(e1,e2)=x
+
+扩展欧几里德算法
+e1*s1+e2*s2 = x
+
+(c1^s1*c2^s2)%n = ((m^e1%n)^s1(m^e2%n)^s2)%n
+
+(c1^s1*c2^s2)%n = ((m^e1%n)^s1*(m^e2%n)^s2)%n
+
+=> (c1^s1*c2^s2)%n = ((m^e1%n)^s1%n*(m^e2%n)^s2%n)%n #(a * b) % p = (a % p * b % p) % p
+
+=> (c1^s1*c2^s2)%n = ((m^e1)^s1%n*(m^e2)^s2%n)%n #((a % p) ^ b) % p =a ^ b % p
+
+=> (c1^s1*c2^s2)%n = ((m^e1)^s1*(m^e2)^s2)%n # (a % p * b % p) % p=(a * b) % p
+
+=>(c1^s1*c2^s2)%n = ((m^(e1*s1)*(m^(e2*s2))%n #。幂的乘方，底数不变，指数相乘。
+
+(c1^s1*c2^s2)%n = (m^(e1*s1+e2*s2))%n  # 同底数幂相乘，底数不变，指数相加。
+
+ 因为e1*s1+e2*s2 = x
+
+ (c1^s1*c2^s2)%n = (m^11)%n
+
+ m^x= (c1^s1*c2^s2)+kn
+需要爆破下k，开x次方后，得到m
+有点类型 低加密指数攻击
+
+
+c1 = pow(m, e1, n)
+c2 = pow(m, e2, n)
+
+c1=m^e1%n
+c2=m^e2%n
+
+#ax+by=gcd(a,b)
+#e1x+e2y=gcd(e1,e2)
+e1s1+e2s2=gcd(e1,e2)
+#libnum.xgcd(e1,e2)
+
+e1s1+e2s2=gcd(e1,e2)
+#s1,s2
+c1=m^e1%n
+#两边同时s1方
+1.  c1^s1%n=m^(e1*s1)%n
+
+c2=m^e2%n
+#两边同时s2方
+2. c2^s2%n=m^(e2*s2)%n
+
+
+式子 1*2
+
+(c1^s1%n*c2^s2%n)%n =m^(e1*s1)%n*m^(e2*s2)%n
+(c1^s1%n*c2^s2%n)%n =(m^(e1*s1)%n*m^(e2*s2)%n)%n
+(c1^s1%n*c2^s2%n)%n =(m^(e1*s1)*m^(e2*s2))%n
+#同底数相乘，指数相加
+(c1^s1%n*c2^s2%n)%n =m^[(e1*s1)+(e2*s2)]%n
+#ax+by=gcd(a,b) e1s1+e2s2=gcd(e1,e2)
+
+(c1^s1%n*c2^s2%n)%n =m^[gcd(e1,e2)]%n
+# gcd(e1,e2)=11
+
+(c1^s1%n*c2^s2%n)%n =m^11%n
+#需要开方11 才能得到m
+
+1. m^11%n=(c1^s1%n*c2^s2%n)%n
+2. 开方
+
+m^11%n=m1
+m^11=m1+kn
+m^11=(m1+kn)

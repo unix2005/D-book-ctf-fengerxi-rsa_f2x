@@ -1,0 +1,25 @@
+
+ax+by=gcd(a,b)
+
+c1 = pow(m, e1, n)
+c2 = pow(m, e2, n)
+c3 = pow(m, e3, n)
+
+c1 = pow(m, e1, n)
+c2 = pow(m, e2, n)
+s1,s2,gcd1=xgcd(e1,e2)
+
+m^gcd1%n=(c1^s1%n*c2^s2%n)%n
+
+c12=(c1^s1%n*c2^s2%n)%n
+
+c12=m^gcd1%n
+
+c12= pow(m,gcd1,n)
+c3 = pow(m, e3, n)
+
+s12,s3,gcd2=xgcd(gcd1,e3)
+#如果gcd2=1 m就算出来了
+#如果gcd2<20,就直接 低加密指数攻击
+
+m=(c12^s12%n*c3^s2%n)%n

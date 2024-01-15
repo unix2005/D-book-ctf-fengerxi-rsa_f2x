@@ -1,5 +1,0 @@
-hc = pow(h + p * 1111, e, n)
-hc=(h+p*1111)^e+kn
-hc=(h+p*1111)^e+kn
-hc=h^e+kp+kn
-hc-h^e=kp

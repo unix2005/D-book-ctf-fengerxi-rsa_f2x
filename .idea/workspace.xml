@@ -5,77 +5,601 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="删除文件 .idea">
-      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/1.中国剩余定理/12.nssctf_pr/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/1125/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/1125/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/1125/mix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/1125/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/2.baby_rsa/baby_rsa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/2.baby_rsa/babyrsa_wp.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/2.baby_rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/2.baby_rsa/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/3.费马与剩余/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/3.费马与剩余/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/3.费马与剩余/费马与剩余.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/4.easy_rsa/easy_rsa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/4.easy_rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/4.easy_rsa/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/6.六重共模/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/6.六重共模/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/6.六重共模/六重共模.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/98.剩余与威尔逊/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/98.剩余与威尔逊/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/98.剩余与威尔逊/剩余与威尔逊.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/98.剩余与威尔逊/剩余与威尔逊_wp.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/99.baby_rsa/baby_rsa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/99.baby_rsa/exp.sage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/99.baby_rsa/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/99.基础rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/99.基础rsa/基础rsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA培训考试/99.基础rsa/基础rsa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/1.中国剩余定理_广播攻击/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/1.中国剩余定理_广播攻击/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/1.中国剩余定理_广播攻击/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/10,.剩余定理与威尔逊定理1/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/10,.剩余定理与威尔逊定理1/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/10,.剩余定理与威尔逊定理1/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/10,.剩余定理与威尔逊定理1/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/11.剩余定理_m+p和m+q/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/11.剩余定理_m+p和m+q/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/12.nssctf_pr/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/12.nssctf_pr/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/2.中国剩余定理_ e=1/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/2.中国剩余定理_ e=1/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/2.中国剩余定理_ e=1/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/3.中国剩余定理_c%p与c%q/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/3.中国剩余定理_c%p与c%q/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/3.中国剩余定理_c%p与c%q/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/4.中国剩余定理_dpdq/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/4.中国剩余定理_dpdq/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/4.中国剩余定理_dpdq/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/5.中国剩余定理_e=65537/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/5.中国剩余定理_e=65537/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/5.中国剩余定理_e=65537/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/6.扩展剩余定理_模不互素/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/6.扩展剩余定理_模不互素/exp.sage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/6.扩展剩余定理_模不互素/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/7.扩展中国剩余定理求_d/exp.sage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/7.扩展中国剩余定理求_d/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/7.扩展中国剩余定理求_d/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/8.练习题1/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/8.练习题1/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/9.练习题2/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/1.中国剩余定理/9.练习题2/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/1.费马小定理 h=pow(ap+b,e,n)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/1.费马小定理 h=pow(ap+b,e,n)/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/1.费马小定理 h=pow(ap+b,e,n)/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/1.费马小定理 h=pow(ap+b,e,n)/题目解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/2.费马小定理 h=pow(ap+b,q,n)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/2.费马小定理 h=pow(ap+b,q,n)/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/2.费马小定理 h=pow(ap+b,q,n)/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/2.费马小定理 h=pow(ap+b,q,n)/题目解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/3.费马小定理 pow(g,a1(p-1),n)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/3.费马小定理 pow(g,a1(p-1),n)/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/3.费马小定理 pow(g,a1(p-1),n)/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/3.费马小定理 pow(g,a1(p-1),n)/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/3.费马小定理 pow(g,a1(p-1),n)/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/4.费马小定理 pow(m,p,n)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/4.费马小定理 pow(m,p,n)/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/4.费马小定理 pow(m,p,n)/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/4.费马小定理 pow(m,p,n)/推理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/5.费马小定理 pow(p, q, n)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/5.费马小定理 pow(p, q, n)/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/5.费马小定理 pow(p, q, n)/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/6.费马小定理 pow(2023,b,p) == 1/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/6.费马小定理 pow(2023,b,p) == 1/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/6.费马小定理 pow(2023,b,p) == 1/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/7.费马小定理 pow(g,a1(p-1),n)_2/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/7.费马小定理 pow(g,a1(p-1),n)_2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/7.费马小定理 pow(g,a1(p-1),n)_2/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/7.费马小定理 pow(g,a1(p-1),n)_2/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/2.费马小定理/7.费马小定理 pow(g,a1(p-1),n)_2/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/1.共模攻击/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/1.共模攻击/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/1.共模攻击/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/1.共模攻击/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/1.共模攻击/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/2.共模变形_e1e2/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/2.共模变形_e1e2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/2.共模变形_e1e2/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/2.共模变形_e1e2/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/2.共模变形_e1e2/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/3.共模变形_e1e2_2/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/3.共模变形_e1e2_2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/3.共模变形_e1e2_2/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/3.共模变形_e1e2_2/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/3.共模变形_e1e2_2/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/4.共模变形_e1e2e3/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/4.共模变形_e1e2e3/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/4.共模变形_e1e2e3/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/4.共模变形_e1e2e3/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/4.共模变形_e1e2e3/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/5.共模变形_e1e2e3e4/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/5.共模变形_e1e2e3e4/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/3.扩展欧几里得算法1/5.共模变形_e1e2e3e4/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/1.扩展欧几里得算法_ 求逆元d1-d2/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/1.扩展欧几里得算法_ 求逆元d1-d2/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/1.扩展欧几里得算法_ 求逆元d1-d2/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/2.扩展欧几里得算法_invert(p,q)和invert(q,p)_phi/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/2.扩展欧几里得算法_invert(p,q)和invert(q,p)_phi/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/2.扩展欧几里得算法_invert(p,q)和invert(q,p)_phi/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/3.扩展欧几里得算法_invert(p,q)和invert(q,p)_ed/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/3.扩展欧几里得算法_invert(p,q)和invert(q,p)_ed/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/4.扩展欧几里得算法_invert(p,q)和invert(q,p)_变形1/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/4.扩展欧几里得算法_invert(p,q)和invert(q,p)_变形1/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/5.扩展欧几里得算法_invert(p,q)和invert(q,p)_变形2/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/5.扩展欧几里得算法_invert(p,q)和invert(q,p)_变形2/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/1.威尔逊定理_m(p-1)!%p/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/1.威尔逊定理_m(p-1)!%p/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/1.威尔逊定理_m(p-1)!%p/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/1.威尔逊定理_m(p-1)!%p/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/1.威尔逊定理_m(p-1)!%p/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/2.威尔逊定理_m(p-2)!%p/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/2.威尔逊定理_m(p-2)!%p/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/2.威尔逊定理_m(p-2)!%p/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/2.威尔逊定理_m(p-2)!%p/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/3.威尔逊定理_m(p-3)!%p/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/3.威尔逊定理_m(p-3)!%p/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/3.威尔逊定理_m(p-3)!%p/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/3.威尔逊定理_m(p-3)!%p/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/3.威尔逊定理_m(p-3)!%p/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/4.威尔逊定理_m(p-x)!%p/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/4.威尔逊定理_m(p-x)!%p/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/4.威尔逊定理_m(p-x)!%p/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/4.威尔逊定理_m(p-x)!%p/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/4.威尔逊定理_m(p-x)!%p/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/4.威尔逊定理_m(p-x)!%p/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/6.威尔逊定理_c(p-1)!%p/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/6.威尔逊定理_c(p-1)!%p/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/6.威尔逊定理_c(p-1)!%p/出题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/6.威尔逊定理_c(p-1)!%p/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/10.剩余定理与威尔逊定理/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/10.剩余定理与威尔逊定理/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/10.剩余定理与威尔逊定理/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/10.剩余定理与威尔逊定理/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/解析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/5.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/1.N分解/1.N高位泄露/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/1.N分解/1.N高位泄露/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/1.N分解/2.下一个素数/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/1.N分解/2.下一个素数/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/2.共私钥指数攻击/exp.sage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/2.共私钥指数攻击/解析.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/2.共私钥指数攻击/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/99.超级障眼法/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/99.超级障眼法/timu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/99.超级障眼法/超级障眼法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/ez_rsa/Ez_RSA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_2023线下培训/2023年10月_RSA进阶培训/9.其他类/ez_rsa/exp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/题目.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/exp1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_2023线下培训/1.2023年10月_RSA进阶培训/5.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/题目.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_ e=1/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_ e=1/timu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_c%p与c%q/rsa35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_dpdq/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_dpdq/出题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_e=65537/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_e=65537/rsa10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_广播攻击/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/中国剩余定理_广播攻击/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/题目.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_中国剩余定理/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_中国剩余定理/exp1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_中国剩余定理/解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_中国剩余定理/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_题1/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_题1/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_题2/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_题2/解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/威尔逊定理_题2/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展中国剩余定理求_c/exp1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展中国剩余定理求_c/exp2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展中国剩余定理求_c/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展中国剩余定理求_d/exp1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展中国剩余定理求_d/exp2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展中国剩余定理求_d/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 共模攻击_e1e2e3不互素/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 共模攻击_e1e2不互素1/1.e1,e2/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 共模攻击_e1e2不互素1/1.e1,e2/解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 共模攻击_e1e2不互素1/1.e1,e2/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 共模攻击_e1e2不互素2/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 共模攻击_e1e2不互素2/题目py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 求逆元d1-d2/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_ 求逆元d1-d2/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_invert(p,q)和invert(q,p)_ed/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_invert(p,q)和invert(q,p)_ed/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_invert(p,q)和invert(q,p)_phi/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_invert(p,q)和invert(q,p)_phi/出题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_共模攻击_e1e2互素/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法_共模攻击_e1e2互素/出题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法invert(p,q)和invert(q,p)_变形/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/扩展欧几里得算法invert(p,q)和invert(q,p)_变形/出题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理  little fermat/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理  little fermat/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 h=pow(ap+b,e,n)/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 h=pow(ap+b,e,n)/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 h=pow(ap+b,e,n)/题目解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 h=pow(ap+b,q,n)/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 h=pow(ap+b,q,n)/出题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 h=pow(ap+b,q,n)/题目解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 pow(g,a1(p-1),n)/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 pow(g,a1(p-1),n)/exp2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 pow(g,a1(p-1),n)/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理 pow(g,a1(p-1),n)/解析.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理pow(m,p,n)与pow(m,q,n)/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理pow(m,p,n)与pow(m,q,n)/推理.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理pow(m,p,n)与pow(m,q,n)/题目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理pow(p, q, n) + pow(q, p, n)/exp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理pow(p, q, n) + pow(q, p, n)/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RSA_分类整理/费马小定理pow(p, q, n) + pow(q, p, n)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/1.威尔逊定理_m(p-1)!%p/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/1.威尔逊定理_m(p-1)!%p/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/1.威尔逊定理_m(p-1)!%p/timu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/1.威尔逊定理_m(p-1)!%p/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/1.威尔逊定理_m(p-1)!%p/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/2.威尔逊定理_m(p-2)!%p/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/2.威尔逊定理_m(p-2)!%p/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/2.威尔逊定理_m(p-2)!%p/timu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/2.威尔逊定理_m(p-2)!%p/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/3.威尔逊定理_m(p-3)!%p/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/3.威尔逊定理_m(p-3)!%p/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/3.威尔逊定理_m(p-3)!%p/timu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/3.威尔逊定理_m(p-3)!%p/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/3.威尔逊定理_m(p-3)!%p/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/4.威尔逊定理_m(p-x)!%p/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/4.威尔逊定理_m(p-x)!%p/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/4.威尔逊定理_m(p-x)!%p/timu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/4.威尔逊定理_m(p-x)!%p/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/4.威尔逊定理_m(p-x)!%p/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/timu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/5.威尔逊定理_m(p-q-1)!%p/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/6.威尔逊定理_c(p-1)!%p/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/6.威尔逊定理_c(p-1)!%p/timu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/6.威尔逊定理_c(p-1)!%p/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/6.威尔逊定理_c(p-1)!%p/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/4.威尔逊定理_m(p-q)!%p/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/4.威尔逊定理_m(p-q)!%p/timu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/4.威尔逊定理_m(p-q)!%p/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/4.威尔逊定理_m(p-q)!%p/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/5.威尔逊定理_中国剩余定理/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/6.威尔逊定理_中国剩余定理/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.威尔逊定理/tmp/7.威尔逊定理 [RoarCTF2019]babyRSA（威尔逊）/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/1.pycharm基础配置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/2.rsa算法及原理简介.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/3.sage下载及安装.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/4.openssl 命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/libnum库的应用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/已知e,d,n/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/已知e,d,n/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/已知p,q,e/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P00 引言/已知p,q,e/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P01 N分解/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P01 N分解/出题脚本.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/1.泄露私钥/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/1.泄露私钥/flag.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/1.泄露私钥/pubckey.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/1.泄露私钥/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/2.公钥分解/RSA5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/2.公钥分解/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/2.公钥分解/flag1.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/2.公钥分解/pubckey1.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/2.公钥分解/rsa5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/3.公钥OAEP/RSA6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/3.公钥OAEP/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/3.公钥OAEP/flag2.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/3.公钥OAEP/prikey2.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P02 密钥/3.公钥OAEP/rsa6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P03 共模攻击/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P03 共模攻击/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P04 维纳攻击脚本/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P04 维纳攻击脚本/出题脚本.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P05 小e低加密指数攻击/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P05 小e低加密指数攻击/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P06 广播攻击(中国剩余定理)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P06 广播攻击(中国剩余定理)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P07 N不互素/1.例题1/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P07 N不互素/1.例题1/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P07 N不互素/2.例题2/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P07 N不互素/2.例题2/出题2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P07 N不互素/3.例题3/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P07 N不互素/3.例题3/pub 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/1.常规/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/1.常规/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/1.常规/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/2.e很大/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/2.e很大/出题2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/2.e很大/解题.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/3.未告诉n/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P08 dp泄露/3.未告诉n/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P09 dpdq/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P09 dpdq/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P10 N是p的r次方/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P10 N是p的r次方/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P10 N是p的r次方/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P10 N是p的r次方/出题2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P11 n分解3个素数/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P11 n分解3个素数/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P11 n分解3个素数/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P11 n分解3个素数/出题2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P12 e和phi不互素/1.常规/exp3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P12 e和phi不互素/1.常规/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P12 e和phi不互素/2.lcm_phi/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P12 e和phi不互素/2.lcm_phi/rsa39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P12 e和phi不互素/2.lcm_phi/tmp思路.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P13  NC不互素/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P13  NC不互素/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P14 rabin/1.常规/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P14 rabin/1.常规/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P14 rabin/2.dasctf例题/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P14 rabin/2.dasctf例题/rabin1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P14 rabin/2.dasctf例题/rabin2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P14 rabin/2.dasctf例题/rabin3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P14 rabin/2.dasctf例题/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P15 m高位泄露/sageexp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P15 m高位泄露/出题脚本.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P16 p高位攻击/sageexp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P16 p高位攻击/出题脚本.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P17 d低位攻击/sageexp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P17 d低位攻击/出题脚本.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P18 Franklin-Reiter 相关消息攻击/sageexp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P18 Franklin-Reiter 相关消息攻击/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P19 Boneh Durfee 攻击/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P19 Boneh Durfee 攻击/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P20 AMM算法/1.单个P/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P20 AMM算法/1.单个P/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P20 AMM算法/2.AMM_sage pq/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P20 AMM算法/2.AMM_sage pq/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P20 AMM算法/3.AMM_sage  单个/exp2.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P01-P20/P20 AMM算法/3.AMM_sage  单个/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P21 共模攻击变形/1.e1,e2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P21 共模攻击变形/1.e1,e2/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P21 共模攻击变形/1.e1,e2/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P21 共模攻击变形/2.e1e2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P21 共模攻击变形/2.e1e2/题目py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P22 有限域开方/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P22 有限域开方/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P23 维纳攻击变形(3素数)/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P24  q=inverse(e, p)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P24  q=inverse(e, p)/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P24  q=inverse(e, p)/推理.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P25  e=2^n次方(有限域开方)/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P25  e=2^n次方(有限域开方)/exp2.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P25  e=2^n次方(有限域开方)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P26 invert(p,q)和invert(q,p)/1. 已知phi/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P26 invert(p,q)和invert(q,p)/1. 已知phi/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P26 invert(p,q)和invert(q,p)/2.已知e,d/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P26 invert(p,q)和invert(q,p)/2.已知e,d/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P26 invert(p,q)和invert(q,p)/3.变形1/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P26 invert(p,q)和invert(q,p)/3.变形1/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P27  h=pow(ap+b,q,n)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P27  h=pow(ap+b,q,n)/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P27  h=pow(ap+b,q,n)/题目解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P28  h=pow(ap+b,e,n)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P28  h=pow(ap+b,e,n)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P28  h=pow(ap+b,e,n)/题目解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P29 费马分解法(平方差遍历法)/1.pqp1q1/assets/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P29 费马分解法(平方差遍历法)/1.pqp1q1/exp3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P29 费马分解法(平方差遍历法)/1.pqp1q1/原理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P29 费马分解法(平方差遍历法)/1.pqp1q1/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P29 费马分解法(平方差遍历法)/2.yafu不能分解的情况/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P29 费马分解法(平方差遍历法)/2.yafu不能分解的情况/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P30 pow(m,p,n)与pow(m,q,n)/1.求公约数/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P30 pow(m,p,n)与pow(m,q,n)/1.求公约数/推理.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P30 pow(m,p,n)与pow(m,q,n)/1.求公约数/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P30 pow(m,p,n)与pow(m,q,n)/2.sage解法/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P30 pow(m,p,n)与pow(m,q,n)/2.sage解法/推理.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P30 pow(m,p,n)与pow(m,q,n)/2.sage解法/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P31 (n + p) % (q-1)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P31 (n + p) % (q-1)/txt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P31 (n + p) % (q-1)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P32 l=d+p+q/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P32 l=d+p+q/wp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P32 l=d+p+q/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P33  pow(p, q, n) + pow(q, p, n)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P33  pow(p, q, n) + pow(q, p, n)/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P33  pow(p, q, n) + pow(q, p, n)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P34 扩展欧几里得求逆元d1-d2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P34 扩展欧几里得求逆元d1-d2/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P35 h=pow(d,e,n)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P35 h=pow(d,e,n)/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P35 h=pow(d,e,n)/wp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P35 h=pow(d,e,n)/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P36 离散对数pow(m,flag,n)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P36 离散对数pow(m,flag,n)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P37 m大于n/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P37 m大于n/原始题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P37 m大于n/题目1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P38 ppq与ppp/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P38 ppq与ppp/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P39 扩展中国剩余定理/1.求d/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P39 扩展中国剩余定理/1.求d/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P39 扩展中国剩余定理/1.求d/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P39 扩展中国剩余定理/2.求c/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P39 扩展中国剩余定理/2.求c/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P39 扩展中国剩余定理/2.求c/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P40 e和phi不互素，剩余定理/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P21-P40/P40 e和phi不互素，剩余定理/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P41 光滑数/1.光滑数p-1/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P41 光滑数/1.光滑数p-1/解析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P41 光滑数/1.光滑数p-1/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P41 光滑数/2.光滑数p+1/脚本.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P42.gcd(n,ad-bc)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P42.gcd(n,ad-bc)/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P42.gcd(n,ad-bc)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P43. l=xp - yq/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P43. l=xp - yq/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P43. l=xp - yq/题目解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P44. 共私钥指数攻击/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P44. 共私钥指数攻击/解析.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P44. 共私钥指数攻击/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P45  威尔逊定理入门/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P45  威尔逊定理入门/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P46. 已知e d n 求p q/脚本1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P47.little fermat/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P47.little fermat/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P48.方程+中国剩余/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P48.方程+中国剩余/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P48.方程+中国剩余/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P48.方程+中国剩余/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P49.p^5-p^4/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P49.p^5-p^4/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P49.p^5-p^4/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P50.威尔逊定理 2022赣育杯/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P50.威尔逊定理 2022赣育杯/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P50.威尔逊定理 2022赣育杯/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P50.威尔逊定理 2022赣育杯/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P51.strange_rsa1/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P51.strange_rsa1/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P51.strange_rsa1/题目.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P52.next_prime(p+2^420)/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P52.next_prime(p+2^420)/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P52.next_prime(p+2^420)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P53. p^3 + q^4/exp..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P53. p^3 + q^4/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P53. p^3 + q^4/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P54.sage_euler_phi/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P54.sage_euler_phi/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P55. 威尔逊定理/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P55. 威尔逊定理/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P55. 威尔逊定理/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P56.Math_Rsa/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P56.Math_Rsa/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P56.Math_Rsa/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P57.攻防世界simpleRSA/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P57.攻防世界simpleRSA/exp_E1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P57.攻防世界simpleRSA/exp_E2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P57.攻防世界simpleRSA/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P58. Crypto Lost_N/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P58. Crypto Lost_N/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P58. Crypto Lost_N/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P58. Crypto Lost_N/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P59. 费马小定理/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P59. 费马小定理/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P59. 费马小定理/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P59. 费马小定理/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P60. 障眼法/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P60. 障眼法/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P60. 障眼法/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P60. 障眼法/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P41-P60/P60. 障眼法/题目解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P61.求公约数+2^16/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P61.求公约数+2^16/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P61.求公约数+2^16/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P61.求公约数+2^16/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P62.pow((p+q),e1,n)与pow((p-q),e1,n)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P62.pow((p+q),e1,n)与pow((p-q),e1,n)/題目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P62.pow((p+q),e1,n)与pow((p-q),e1,n)/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P63 多次共模攻击/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P63.ab与共模/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P63.ab与共模/题目" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P64. ez_rsa/Ez_RSA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P64. ez_rsa/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P64. ez_rsa/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P65. 求公约数/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P65. 求公约数/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P65. 求公约数/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P65. 求公约数/题目1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P66 多个知识点/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P66 多个知识点/exp3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P66 多个知识点/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P67 r次方/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P67 r次方/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P67 r次方/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P67 r次方/题目1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P68  2的5次方/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P68  2的5次方/t1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_基础篇/P61-P80/P68  2的5次方/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/1.求公约数+2^16/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/1.求公约数+2^16/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/1.求公约数+2^16/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/10.strange_rsa1/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/10.strange_rsa1/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/10.strange_rsa1/题目.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/11.next_prime(p+2^420)/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/11.next_prime(p+2^420)/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/11.next_prime(p+2^420)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/12.p^3 + q^4/exp..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/12.p^3 + q^4/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/12.p^3 + q^4/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/13.sage_euler_phi/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/13.sage_euler_phi/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/14. 威尔逊定理/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/14. 威尔逊定理/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/14. 威尔逊定理/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/15.Math_Rsa/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/15.Math_Rsa/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/15.Math_Rsa/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/16.攻防世界simpleRSA/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/16.攻防世界simpleRSA/exp_E1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/16.攻防世界simpleRSA/exp_E2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/16.攻防世界simpleRSA/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/17.Crypto Lost_N/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/17.Crypto Lost_N/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/17.Crypto Lost_N/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/17.Crypto Lost_N/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/19.ab与共模/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/2.gcd(n,ad-bc)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/2.gcd(n,ad-bc)/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/2.gcd(n,ad-bc)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/3.xp - yq/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/3.xp - yq/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/3.xp - yq/题目解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/4.halfenc(p高位攻击)/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/4.halfenc(p高位攻击)/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/4.halfenc(p高位攻击)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/5.共私钥指数攻击/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/5.共私钥指数攻击/解析.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/5.共私钥指数攻击/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/6.little fermat/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/6.little fermat/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/7.方程+中国剩余/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/7.方程+中国剩余/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/7.方程+中国剩余/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/7.方程+中国剩余/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/8.p^5-p^4/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/8.p^5-p^4/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/8.p^5-p^4/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/9.威尔逊定理 2022赣育杯/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/9.威尔逊定理 2022赣育杯/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/9.威尔逊定理 2022赣育杯/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/9.威尔逊定理 2022赣育杯/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/P20 next_prime(p+2^520)/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/P20 next_prime(p+2^520)/题目" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/P21 Mypow/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/P21 Mypow/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/P22 L=3d1-2d2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/P22 L=3d1-2d2/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/1.3tefanie博客/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/1.invert(p,q)和invert(q,p)，phi/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/1.invert(p,q)和invert(q,p)，phi/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/1.invert(p,q)和invert(q,p)，phi/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/2.invert(p,q)和invert(q,p)，e,d/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/2.invert(p,q)和invert(q,p)，e,d/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/3.invert(p,q)和invert(q,p)变形1/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/3.invert(p,q)和invert(q,p)变形1/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/3.invert(p,q)和invert(q,p)变形1/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/4.invert(p,q)和invert(q,p)变形2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/4.invert(p,q)和invert(q,p)变形2/出题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/2.扩展欧几里得定理/4.invert(p,q)和invert(q,p)变形2/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/1. 威尔逊定理入门/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/1. 威尔逊定理入门/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/2. 威尔逊定理/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/2. 威尔逊定理/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/2. 威尔逊定理/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/3. 2022赣育杯/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/3. 2022赣育杯/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/3. 2022赣育杯/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/3. 2022赣育杯/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/4.[RoarCTF2019]babyRSA/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/4.[RoarCTF2019]babyRSA/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/3.威尔逊定理/4.[RoarCTF2019]babyRSA/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/CRT(中国剩余定理模数不互质)/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/CRT(中国剩余定理模数不互质)/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/CRT(中国剩余定理模数不互质)/exp3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/CRT(中国剩余定理模数不互质)/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/N分解有合数/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/N分解有合数/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/RSA_md5_xor/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/RSA_md5_xor/题目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/e1,e2类/e1,e2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/e1,e2类/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/littleRSA 构造格子应用LLL算法/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/littleRSA 构造格子应用LLL算法/解析.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/littleRSA 构造格子应用LLL算法/题目1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/攻防世界[简单] 初识RSA/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/攻防世界[简单] 初识RSA/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/特殊的分解/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/特殊的分解/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/特殊的分解/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/随机加密指数/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/98.未分类/随机加密指数/题目1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/99.不会做/20221029cr6/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/99.不会做/20221029cr6/exp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/99.不会做/20221029cr6/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/99.不会做/20221029cr6/writeup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/99.不会做/20221029cr6/题目.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/99.不会做/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSA_收集篇/网址收集" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +648,6 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.exp (1).executor": "Run",
     "Python.exp (2).executor": "Run",
-    "Python.exp (3).executor": "Run",
     "Python.exp.executor": "Run",
     "Python.exp2.executor": "Run",
     "Python.rabin1.executor": "Run",
@@ -133,9 +656,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/3.python/1.py3-gitee/f2x_tool",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "D:/3.python/1.py3-gitee/风二西rsa",
+    "settings.editor.selected.configurable": "application.passwordSafe"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -143,11 +665,11 @@
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\RSA_2023\2023年10月_RSA进阶培训" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\RSA_tmp" />
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\RSA_2023线下培训\2.2023年10月_RSA培训考试" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\RSA_2023\2023年10月_RSA进阶培训\3.扩展欧几里得算法" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\RSA_2023\2023年10月_RSA进阶培训" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\RSA_2023" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\RSA_2023\tmp" />
     </key>
   </component>
   <component name="RunManager" selected="Python.exp2">
@@ -314,23 +836,7 @@
       <option name="project" value="LOCAL" />
       <updated>1704983684907</updated>
     </task>
-    <task id="LOCAL-00004" summary="删除文件 .idea">
-      <option name="closed" value="true" />
-      <created>1705321728841</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1705321728841</updated>
-    </task>
-    <task id="LOCAL-00005" summary="删除文件 .idea">
-      <option name="closed" value="true" />
-      <created>1705329840628</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1705329840628</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

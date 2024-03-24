@@ -1,0 +1,33 @@
+
+
+x=pow(m,p,n)
+y=pow(m,q,n)
+
+
+x=m^p%n
+y=m^q%n
+
+x=m^p%n
+#两边同时q次方
+
+x^q%n=(m^p)^q%n
+x^q%n=(m^q)^p%n
+
+x^q%n=(m^q%n)^p%n
+#y=m^q%n
+
+x^q%n=y^p%n
+x^q=y^p+kn
+#两边同时p
+
+x^q%p=y^p%p
+#根据费马小定理
+#a^p%p=a%p
+
+x^q%p=y%p
+#两边同时 p次方
+(x^q)^p%p=y^p%p
+x^n%p=y%p
+x^n-y=kp
+
+结论1： p=gcd(x^n%n-y,n)

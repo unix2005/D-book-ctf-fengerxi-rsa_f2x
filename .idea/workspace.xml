@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/原题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/原题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/风二西rsa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/风二西rsa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/出题.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/出题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/出题.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/出题.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,43 +60,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.e=1.executor": "Run",
-    "Python.exp (1).executor": "Run",
-    "Python.exp (2).executor": "Run",
-    "Python.exp (3).executor": "Run",
-    "Python.exp.executor": "Run",
-    "Python.exp1.executor": "Run",
-    "Python.exp2 (1).executor": "Run",
-    "Python.exp2.executor": "Run",
-    "Python.pub 2.executor": "Run",
-    "Python.rabin1.executor": "Run",
-    "Python.rabin2.executor": "Run",
-    "Python.rabin3.executor": "Run",
-    "Python.rsa12.executor": "Run",
-    "Python.t1.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.题目 (1).executor": "Run",
-    "Python.题目 (2).executor": "Run",
-    "Python.题目.executor": "Run",
-    "Python.题目1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/3.python/1.py3-gitee/风二西rsa",
-    "settings.editor.selected.configurable": "通义灵码"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.e=1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pub 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rabin1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rabin2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rabin3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rsa12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.出题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.题目 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.题目 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.题目.executor&quot;: &quot;Run&quot;,
+    &quot;Python.题目1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/3.python/1.py3-gitee/风二西rsa/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\2.RSA_2023线下培训\1.2023年10月_RSA进阶培训\4.扩展欧几里得算法2" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\10.dp泄露" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\1.基础入门" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\8.模不互素" />
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\7.广播攻击" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\收集2\99.未分类" />
@@ -93,8 +107,8 @@
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\19. P XOR Q" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exp2">
-    <configuration name="e=1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exp2 (1)">
+    <configuration name="出题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="风二西rsa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,33 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RSA_风二西2021/RSA1-10/RSA1 e=1 基础版" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RSA_风二西2021/RSA1-10/RSA1 e=1 基础版/e=1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="风二西rsa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/收集1/P61-P80/P67 r次方" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/收集1/P61-P80/P67 r次方/exp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/出题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exp (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="风二西rsa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +161,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RSA_分类整理/P42 离散对数pow(m,flag,n)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RSA_分类整理/P42 离散对数pow(m,flag,n)/exp.py" />
+      <option name="SCRIPT_NAME" value="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\105.扩展欧几里得算法\6.扩展欧几里得算法_m1m2\exp1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exp2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="风二西rsa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exp2 (1)" />
+        <item itemvalue="Python.出题" />
+        <item itemvalue="Python.exp1" />
         <item itemvalue="Python.exp2" />
         <item itemvalue="Python.exp (2)" />
-        <item itemvalue="Python.e=1" />
-        <item itemvalue="Python.exp (1)" />
-        <item itemvalue="Python.exp (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711285145923</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1711287214021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711287214021</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

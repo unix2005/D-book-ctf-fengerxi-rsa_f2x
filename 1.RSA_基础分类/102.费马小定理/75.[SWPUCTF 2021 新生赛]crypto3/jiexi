@@ -1,0 +1,26 @@
+
+c1= pow(m1,p,n)
+c2= pow(m1,q,n)
+
+c1=m1^p+kn
+c2=m1^q+kn
+
+c1=m1^p%n
+c2=m1^q%n
+
+#两边同时p次方
+c1^q%n=m1^n%n
+#两边同时q次方
+c2^p%n=m1^n%n
+
+
+c1^q%n=c2^p%n
+
+#两边同时模p
+c1^q%p=c2^p%p
+#两边同时p次方
+c1^n%p=c2^p%p
+#根据费马小定理
+c1^n%p=c2%p
+c1^n-c2=kp
+p=gcd(c1^n-c2,n)

@@ -11,7 +11,7 @@ p = sympy.symbols('p')
 q= sympy.symbols('q')
 f1=p+q-p_q
 f2=p*q-n
-p,q=sympy.solve([f1,f2],[p,q])
+p,q=sympy.solve([f1,f2],[p,q],domain='ZZ')
 
 print(p[0])
 print(p[1])

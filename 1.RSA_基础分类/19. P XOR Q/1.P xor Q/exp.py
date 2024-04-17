@@ -10,6 +10,7 @@ x1 = bin(x1)[2:].zfill(512)
 pre_sol = [(0, 0)]
 for x in range(512 - 1, -1, -1):
     cur_pow = pow(2, len(x1) - x - 1)
+    print(cur_pow)
     cur_sol = []
     for p, q in pre_sol:
         for i in range(2):

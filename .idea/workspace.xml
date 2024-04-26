@@ -4,7 +4,110 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+<<<<<<<<< Temporary merge branch 1
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/原题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/原题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/风二西rsa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/风二西rsa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/出题.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/出题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/出题.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2/6.扩展欧几里得算法_m1m2/出题.py" afterDir="false" />
+=========
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/75.[SWPUCTF 2021 新生赛]crypto3/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/75.[SWPUCTF 2021 新生赛]crypto3/jiexi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/75.[SWPUCTF 2021 新生赛]crypto3/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/104.威尔逊定理/84.[长安杯 2021]checkin/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/104.威尔逊定理/84.[长安杯 2021]checkin/timu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/106.欧拉定理/79.[LitCTF 2023]Euler/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/106.欧拉定理/79.[LitCTF 2023]Euler/timu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/11.e和phi不互素/63.[LitCTF 2023]e的学问/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/11.e和phi不互素/63.[LitCTF 2023]e的学问/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/12.phi是e的倍数/34.[HDCTF 2023]Normal_Rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/12.phi是e的倍数/34.[HDCTF 2023]Normal_Rsa/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/2.N分解/68.[柏鹭杯 2021]试试大数据分解/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/2.N分解/68.[柏鹭杯 2021]试试大数据分解/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/2.N分解/68.[柏鹭杯 2021]试试大数据分解/key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/2.N分解/68.[柏鹭杯 2021]试试大数据分解/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/2.N分解/78.[羊城杯 2021]Easy_Rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/2.N分解/78.[羊城杯 2021]Easy_Rsa/题目.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/17.[SWPU 2020]happy/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/17.[SWPU 2020]happy/exp_z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/17.[SWPU 2020]happy/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/47.[GWCTF 2019]babyRSA/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/47.[GWCTF 2019]babyRSA/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/67.[LitCTF 2023]easy_math (中级)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/67.[LitCTF 2023]easy_math (中级)/题目,TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/3.密钥基础/68.[柏鹭杯 2021]试试大数据分解/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/3.密钥基础/68.[柏鹭杯 2021]试试大数据分解/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/3.密钥基础/68.[柏鹭杯 2021]试试大数据分解/key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/3.密钥基础/68.[柏鹭杯 2021]试试大数据分解/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/4.维纳攻击/42.[HGAME 2022 week3]RSA attack 3/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/4.维纳攻击/42.[HGAME 2022 week3]RSA attack 3/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/5.共模攻击/32.[SWPUCTF 2021新生赛]crypto1/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/5.共模攻击/32.[SWPUCTF 2021新生赛]crypto1/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/5.共模攻击/33.[BJDCTF 2020]rsa_output/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/5.共模攻击/33.[BJDCTF 2020]rsa_output/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/6.低加密指数/80.[HDCTF 2023]Math_Rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/6.低加密指数/80.[HDCTF 2023]Math_Rsa/timu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/7.广播攻击/22.[鹤城杯 2021]Crazy_Rsa_Tech/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/7.广播攻击/22.[鹤城杯 2021]Crazy_Rsa_Tech/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/8.模不互素/38.[闽盾杯 2021]decode/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/8.模不互素/38.[闽盾杯 2021]decode/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/8.模不互素/81.[LitCTF 2023]The same common divisor (高级)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/8.模不互素/81.[LitCTF 2023]The same common divisor (高级)/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/30.[BJDCTF 2020]rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/30.[BJDCTF 2020]rsa/题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/35.[BJDCTF 2020]EasyRSA/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/35.[BJDCTF 2020]EasyRSA/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/44.[CISCN 2022 西南]rsa/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/44.[CISCN 2022 西南]rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/44.[CISCN 2022 西南]rsa/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/46.[CISCN 2021初赛]rsa/exe.sage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/46.[CISCN 2021初赛]rsa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/46.[CISCN 2021初赛]rsa/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/51.[HUBUCTF 2022 新生赛]RSAaaa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/51.[HUBUCTF 2022 新生赛]RSAaaa/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/54.[RoarCTF 2019]RSA/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/54.[RoarCTF 2019]RSA/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/54.[RoarCTF 2019]RSA/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/56.[HDCTF 2023]Normal_Rsa(revenge)/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/56.[HDCTF 2023]Normal_Rsa(revenge)/timu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/57.[NCTF 2019]childRSA/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/57.[NCTF 2019]childRSA/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/题目" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/timu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSA_风二西2021/te.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/2.p高位攻击/sageexp.sage" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/2.p高位攻击/1.p高位泄露/sageexp.sage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/2.p高位攻击/出题脚本.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/2.p高位攻击/1.p高位泄露/出题脚本.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/1.h=p+q/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/1.h=p+q/exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/1.h=p+q/rsa30.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/1.h=p+q/rsa30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/2.(n + p) % (q-1)/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/2.(n + p) % (q-1)/exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/2.(n + p) % (q-1)/exp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/2.(n + p) % (q-1)/exp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/2.(n + p) % (q-1)/txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/2.(n + p) % (q-1)/txt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/2.(n + p) % (q-1)/题目.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/2.(n + p) % (q-1)/题目.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/3.q=inverse(e, p)/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/3.q=inverse(e, p)/exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/3.q=inverse(e, p)/exp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/3.q=inverse(e, p)/exp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/3.q=inverse(e, p)/出题.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/3.q=inverse(e, p)/出题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/3.q=inverse(e, p)/推理.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/3.q=inverse(e, p)/推理.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/4.方程+中国剩余/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/4.方程+中国剩余/exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/4.方程+中国剩余/解析.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/4.方程+中国剩余/解析.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy解方程/4.方程+中国剩余/题目.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/4.方程+中国剩余/题目.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/7.广播攻击/2.广播攻击2/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/7.广播攻击/2.广播攻击2/题目.py" beforeDir="false" />
+>>>>>>>>> Temporary merge branch 2
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +164,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<<<< Temporary merge branch 1
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
@@ -72,16 +176,13 @@
     &quot;Python.exp1.executor&quot;: &quot;Run&quot;,
     &quot;Python.exp2 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.exp2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp_z3.executor&quot;: &quot;Run&quot;,
     &quot;Python.pub 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.rabin1.executor&quot;: &quot;Run&quot;,
     &quot;Python.rabin2.executor&quot;: &quot;Run&quot;,
     &quot;Python.rabin3.executor&quot;: &quot;Run&quot;,
     &quot;Python.rsa12.executor&quot;: &quot;Run&quot;,
     &quot;Python.t1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.te.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.timu.executor&quot;: &quot;Run&quot;,
     &quot;Python.出题.executor&quot;: &quot;Run&quot;,
     &quot;Python.题目 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.题目 (2).executor&quot;: &quot;Run&quot;,
@@ -91,94 +192,70 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/3.python/1.py3-gitee/风二西rsa&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/3.python/1.py3-gitee/风二西rsa/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/4.扩展欧几里得算法2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+=========
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.e=1.executor": "Run",
+    "Python.exp (1).executor": "Run",
+    "Python.exp (2).executor": "Run",
+    "Python.exp (3).executor": "Run",
+    "Python.exp.executor": "Run",
+    "Python.exp1.executor": "Run",
+    "Python.exp2 (1).executor": "Run",
+    "Python.exp2.executor": "Run",
+    "Python.pub 2.executor": "Run",
+    "Python.rabin1.executor": "Run",
+    "Python.rabin2.executor": "Run",
+    "Python.rabin3.executor": "Run",
+    "Python.rsa12.executor": "Run",
+    "Python.t1.executor": "Run",
+    "Python.te.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.timu.executor": "Run",
+    "Python.出题.executor": "Run",
+    "Python.题目 (1).executor": "Run",
+    "Python.题目 (2).executor": "Run",
+    "Python.题目.executor": "Run",
+    "Python.题目1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/3.python/1.py3-gitee/风二西rsa",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+>>>>>>>>> Temporary merge branch 2
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\99.不好分类" />
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\20.sympy_z3解方程" />
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\18.有限域开方" />
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\14.Coppersmith攻击系列\2.p高位攻击" />
+<<<<<<<<< Temporary merge branch 1
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\2.RSA_2023线下培训\1.2023年10月_RSA进阶培训\4.扩展欧几里得算法2" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\10.dp泄露" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\1.基础入门" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\8.模不互素" />
+=========
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\104.威尔逊定理" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\8.模不互素" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\6.低加密指数" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\106.欧拉定理" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\2.N分解" />
+>>>>>>>>> Temporary merge branch 2
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\14.Coppersmith攻击系列\4.Franklin-Reiter 相关消息攻击\1.常规题目" />
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\8.模不互素" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\14.Coppersmith攻击系列\2.p高位攻击\1.p高位泄露" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\收集2\99.未分类" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\收集2" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\20.sympy解方程" />
+      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\20.解方程" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exp">
-    <configuration name="题目" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="风二西rsa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/1.常规题目" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/1.常规题目/题目.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="风二西rsa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/19. P XOR Q/1.P xor Q" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/19. P XOR Q/1.P xor Q/exp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="风二西rsa" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+<<<<<<<<< Temporary merge branch 1
+  <component name="RunManager" selected="Python.exp2 (1)">
+    <configuration name="出题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="风二西rsa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/出题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +277,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=========
+  <component name="RunManager" selected="Python.exp">
+>>>>>>>>> Temporary merge branch 2
+    <configuration name="exp (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="风二西rsa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/4.费马小定理 pow(m,p,n)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/4.费马小定理 pow(m,p,n)/exp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<<<< Temporary merge branch 1
+    <configuration name="exp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=========
+    <configuration name="exp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>>>> Temporary merge branch 2
+      <module name="风二西rsa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<<<< Temporary merge branch 1
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类\105.扩展欧几里得算法\6.扩展欧几里得算法_m1m2\exp1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exp2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="风二西rsa" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,6 +343,79 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp2.py" />
+=========
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/8.费马小定理 pow(m,p,n)变形" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/8.费马小定理 pow(m,p,n)变形/exp.py" />
+>>>>>>>>> Temporary merge branch 2
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exp2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="风二西rsa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/4.费马小定理 pow(m,p,n)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/4.费马小定理 pow(m,p,n)/exp2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="te" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="风二西rsa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RSA_风二西2021" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RSA_风二西2021/te.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="timu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="风二西rsa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/8.费马小定理 pow(m,p,n)变形" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/8.费马小定理 pow(m,p,n)变形/timu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +426,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exp" />
-        <item itemvalue="Python.题目" />
-        <item itemvalue="Python.exp (1)" />
-        <item itemvalue="Python.exp2" />
+<<<<<<<<< Temporary merge branch 1
+        <item itemvalue="Python.exp2 (1)" />
+        <item itemvalue="Python.出题" />
         <item itemvalue="Python.exp1" />
+        <item itemvalue="Python.exp2" />
+        <item itemvalue="Python.exp (2)" />
+=========
+        <item itemvalue="Python.exp" />
+        <item itemvalue="Python.timu" />
+        <item itemvalue="Python.exp2 (1)" />
+        <item itemvalue="Python.exp (2)" />
+        <item itemvalue="Python.te" />
+>>>>>>>>> Temporary merge branch 2
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +509,9 @@
       <option name="project" value="LOCAL" />
       <updated>1711287214021</updated>
     </task>
+<<<<<<<<< Temporary merge branch 1
+    <option name="localTasksCounter" value="7" />
+=========
     <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
       <created>1711982225088</created>
@@ -323,31 +536,8 @@
       <option name="project" value="LOCAL" />
       <updated>1712823770138</updated>
     </task>
-    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1713368016722</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1713368016722</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1713368052832</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1713368052832</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1714145662036</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1714145662036</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="10" />
+>>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

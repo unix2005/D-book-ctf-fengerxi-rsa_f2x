@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/2.e很大题目/exp.sage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/2.e很大题目/timu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/18.有限域开方/103.[强网杯 2022]ASR/exp.sage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/18.有限域开方/103.[强网杯 2022]ASR/timu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/18.有限域开方/15.sage_有限域开方/exp.sage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/18.有限域开方/15.sage_有限域开方/题目.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/104.[NCTF 2018]Easy RSA/exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/20.sympy_z3解方程/104.[NCTF 2018]Easy RSA/timu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/exp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/t1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/105.扩展欧几里得算法/6.扩展欧几里得算法_m1m2/exp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/sageexp.sage" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/1.常规题目/sageexp.sage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/题目.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/14.Coppersmith攻击系列/4.Franklin-Reiter 相关消息攻击/1.常规题目/题目.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/19. P XOR Q/1.P xor Q/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/19. P XOR Q/1.P xor Q/exp.py" afterDir="false" />
-    </list>
+    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -359,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713368052832</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1714145662036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714145662036</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

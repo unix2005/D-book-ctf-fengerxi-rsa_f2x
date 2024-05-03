@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/[GHCTF 2024 新生赛]2024九省联考/exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/[GHCTF 2024 新生赛]2024九省联考/解析" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/[GHCTF 2024 新生赛]2024九省联考/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +31,9 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GiteeDefaultAccount">
+    <option name="defaultAccountId" value="0e6136f2-2b82-423d-af07-326991861681" />
   </component>
   <component name="GiteePullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -96,16 +94,16 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/3.python/1.py3-gitee/f2x_rsa/1.RSA_基础分类/102.费马小定理",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\3.python\1.py3-gitee\f2x_rsa\1.RSA_基础分类\102.费马小定理" />
       <recent name="D:\3.python\1.py3-gitee\f2x_rsa\1.RSA_基础分类\21.手撕密钥\[GHCTF 2024 新生赛]Crypto2042" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\2.RSA_2023线下培训\1.2023年10月_RSA进阶培训\4.扩展欧几里得算法2" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训" />
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\10.dp泄露" />
-      <recent name="D:\3.python\1.py3-gitee\风二西rsa\1.RSA_基础分类培训\1.基础入门" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\3.python\1.py3-gitee\风二西rsa\收集2\99.未分类" />
@@ -327,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714734685759</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1714737039399</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714737039399</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

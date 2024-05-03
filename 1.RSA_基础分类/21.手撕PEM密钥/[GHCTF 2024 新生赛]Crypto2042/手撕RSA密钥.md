@@ -1,0 +1,124 @@
+
+
+参考网址
+
+```
+https://lazzzaro.github.io/2020/05/06/crypto-RSA/
+https://tover.xyz/p/pem-by-hand/#%E6%89%8B%E6%92%95RSA%E7%A7%81%E9%92%A5
+
+```
+
+#### RSA私钥
+
+```
+RFC3447定义：
+
+RSAPrivateKey ::= SEQUENCE {
+    version           Version,
+    modulus           INTEGER,  -- n
+    publicExponent    INTEGER,  -- e
+    privateExponent   INTEGER,  -- d
+    prime1            INTEGER,  -- p
+    prime2            INTEGER,  -- q
+    exponent1         INTEGER,  -- d mod (p-1)
+    exponent2         INTEGER,  -- d mod (q-1)
+    coefficient       INTEGER,  -- (inverse of q) mod p
+    otherPrimeInfos   OtherPrimeInfos OPTIONAL
+}
+Version ::= INTEGER { two-prime(0), multi(1) }
+   (CONSTRAINED BY
+   {-- version must be multi if otherPrimeInfos present --})
+
+```
+
+范例
+
+```
+3082025d02010002818100a0d154d5bf97c40f7797b44819d09c608fa4b5c38e70d83bc13267138c6eff4c1aacefe3ddb571e1b41d911c7ab6136cf90493189563450e1f4270cabbc4207c54c4da7b84a20311cfbbabe82b9fe60bdf48a08d57839d0cdf9464d84262bcc06bc308095a6987f60ad07d669a312b5a7e4133213788eecf25863248b91349ef02030100010281800f8270c496903bf3e3ec4912450f15edc81cb1fcf4b154615aee11fbd428e64d402b5a8d66d5f770358f3e6df935b324e8d5349c83d7c992a5982249a31734acb1db19c4c8d829267514bc1ef7bbfbe242d4350f67a002a56d33e56d1a94adc71c68f020dc39ab7d0064c111b164e26ba0698dc94a03cdfd516ffd966e877949024100ca97e49c058237f96e99118ce383f91912cba1163de9236181ff754ef3ef1a260fac8d2d9aee866d51a8b6836983b05cf850e786289b6859925bc8695fc67c47024100cb3630aafffcb29607f0833dc7f05c143ee92fadfe975da4cf6719e71226bee72562e8631328a25d7351507a8d43c1295ab6ea242b60a28b109233a983f4211902401b4a32a541a8b4d988a85dd0d8a4e25d1a470bbfef3f0461121dd3337b706dd94aab37a9390180622169d48c071e921733ebd204245c2ac6460ccf0642bc7de90241008d9f44a7c823eaaa58fa2bdd20bcc8cf6b50c463f4acb51ca956e75c7ceff7d7cbdc74aca7ab880cacd39cccec2aae320e00b0896899be6e40ac43c8fe2763f1024100c67ca6d988f53abea82159431a146512a8d942978d4a8f83f2d426f1095e3bf1b5b9b8b1ccbbad2a31c6401880447a45f5e0790269061ac13b5f68f1777d7f07
+```
+
+
+
+```
+30是Sequence的tag，82是指接下来后两个bytes是这个Sequence的长度，即0x025d个bytes，也就是剩下全部都是；接着的020100就是整数0，其中02是整数的tag，01是这个整数占1byte，00是value同样的方法也可以解02818100a0...和后面其他整数，拆分：
+
+3082025d  	# Begin Sequence: len=0x025d
+
+0201  		# Version: (len=0x01)
+00
+
+028181		# n: (len=0x81)
+00a0d154d5bf97c40f7797b44819d09c608fa4b5c38e70d83bc13267138c6eff4c1aacefe3ddb571e1b41d911c7ab6136cf90493189563450e1f4270cabbc4207c54c4da7b84a20311cfbbabe82b9fe60bdf48a08d57839d0cdf9464d84262bcc06bc308095a6987f60ad07d669a312b5a7e4133213788eecf25863248b91349ef
+
+0203		# e: (len=0x03)
+010001
+
+028180		# d: (len=0x80)
+0f8270c496903bf3e3ec4912450f15edc81cb1fcf4b154615aee11fbd428e64d402b5a8d66d5f770358f3e6df935b324e8d5349c83d7c992a5982249a31734acb1db19c4c8d829267514bc1ef7bbfbe242d4350f67a002a56d33e56d1a94adc71c68f020dc39ab7d0064c111b164e26ba0698dc94a03cdfd516ffd966e877949
+
+0241		# p: (len=0x41)
+00ca97e49c058237f96e99118ce383f91912cba1163de9236181ff754ef3ef1a260fac8d2d9aee866d51a8b6836983b05cf850e786289b6859925bc8695fc67c47
+
+0241		# q: (len=0x41)
+00cb3630aafffcb29607f0833dc7f05c143ee92fadfe975da4cf6719e71226bee72562e8631328a25d7351507a8d43c1295ab6ea242b60a28b109233a983f42119
+
+0240		# d mod (p-1): (len=0x40)
+1b4a32a541a8b4d988a85dd0d8a4e25d1a470bbfef3f0461121dd3337b706dd94aab37a9390180622169d48c071e921733ebd204245c2ac6460ccf0642bc7de9
+
+0241		# d mod (q-1): (len=0x41)
+008d9f44a7c823eaaa58fa2bdd20bcc8cf6b50c463f4acb51ca956e75c7ceff7d7cbdc74aca7ab880cacd39cccec2aae320e00b0896899be6e40ac43c8fe2763f1
+
+0241		# (inverse of q) mod p: (len=0x41)
+00c67ca6d988f53abea82159431a146512a8d942978d4a8f83f2d426f1095e3bf1b5b9b8b1ccbbad2a31c6401880447a45f5e0790269061ac13b5f68f1777d7f07
+			
+			# End Sequence
+
+/**
+* 复制并使用代码请注明引用出处哦~
+* Lazzaro @ https://lazzzaro.github.io
+*/
+```
+
+#### RSA公钥
+
+范例
+
+```
+30819f300d06092a864886f70d010101050003818d0030818902818100a0d154d5bf97c40f7797b44819d09c608fa4b5c38e70d83bc13267138c6eff4c1aacefe3ddb571e1b41d911c7ab6136cf90493189563450e1f4270cabbc4207c54c4da7b84a20311cfbbabe82b9fe60bdf48a08d57839d0cdf9464d84262bcc06bc308095a6987f60ad07d669a312b5a7e4133213788eecf25863248b91349ef0203010001
+```
+
+
+
+```
+30819f 		# Begin Main Sequence: len=0x9f
+
+300d		# Begin Sub1 Sequence: len=0x0d
+
+0609		# algo_oid: (1.2.840.113549.1.1.1  - PKCSv1.2)
+2a864886f70d010101
+
+0500		# params: (null)
+
+
+			# End Sub1 Sequence
+
+03818d		# BitString: len=0x8d ([n, e])
+
+00308189	# Begin Sub2 Sequence: len=0x89
+
+028181		# n:
+00a0d154d5bf97c40f7797b44819d09c608fa4b5c38e70d83bc13267138c6eff4c1aacefe3ddb571e1b41d911c7ab6136cf90493189563450e1f4270cabbc4207c54c4da7b84a20311cfbbabe82b9fe60bdf48a08d57839d0cdf9464d84262bcc06bc308095a6987f60ad07d669a312b5a7e4133213788eecf25863248b91349ef
+
+0203		# e:
+010001
+
+			# End Sub2 Sequence
+
+			# End Main Sequence
+
+/**
+* 复制并使用代码请注明引用出处哦~
+* Lazzaro @ https://lazzzaro.github.io
+*/
+```
+

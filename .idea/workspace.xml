@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ebd3ad-8bda-47d5-a797-0b51806a835e" name="更改" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/21.手撕PEM密钥/[GHCTF 2024 新生赛]Crypto2042/exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/21.手撕PEM密钥/[GHCTF 2024 新生赛]Crypto2042/exp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/21.手撕PEM密钥/[GHCTF 2024 新生赛]Crypto2042/手撕RSA密钥.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/[GHCTF 2024 新生赛]2024九省联考/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/[GHCTF 2024 新生赛]2024九省联考/解析" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.RSA_基础分类/102.费马小定理/[GHCTF 2024 新生赛]2024九省联考/题目.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/exp3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/t1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/01110_二次剩余/test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/30.[BJDCTF 2020]rsa/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/30.[BJDCTF 2020]rsa/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/30.[BJDCTF 2020]rsa/题目.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/30.[BJDCTF 2020]rsa/题目.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/35.[BJDCTF 2020]EasyRSA/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/35.[BJDCTF 2020]EasyRSA/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/35.[BJDCTF 2020]EasyRSA/题目" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/35.[BJDCTF 2020]EasyRSA/题目" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/44.[CISCN 2022 西南]rsa/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/44.[CISCN 2022 西南]rsa/1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/44.[CISCN 2022 西南]rsa/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/44.[CISCN 2022 西南]rsa/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/44.[CISCN 2022 西南]rsa/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/44.[CISCN 2022 西南]rsa/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/46.[CISCN 2021初赛]rsa/exe.sage" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/46.[CISCN 2021初赛]rsa/exe.sage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/46.[CISCN 2021初赛]rsa/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/46.[CISCN 2021初赛]rsa/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/46.[CISCN 2021初赛]rsa/timu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/46.[CISCN 2021初赛]rsa/timu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/51.[HUBUCTF 2022 新生赛]RSAaaa/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/51.[HUBUCTF 2022 新生赛]RSAaaa/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/51.[HUBUCTF 2022 新生赛]RSAaaa/timu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/51.[HUBUCTF 2022 新生赛]RSAaaa/timu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/54.[RoarCTF 2019]RSA/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/54.[RoarCTF 2019]RSA/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/54.[RoarCTF 2019]RSA/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/54.[RoarCTF 2019]RSA/exp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/54.[RoarCTF 2019]RSA/timu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/54.[RoarCTF 2019]RSA/timu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/56.[HDCTF 2023]Normal_Rsa(revenge)/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/56.[HDCTF 2023]Normal_Rsa(revenge)/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/56.[HDCTF 2023]Normal_Rsa(revenge)/timu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/56.[HDCTF 2023]Normal_Rsa(revenge)/timu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/57.[NCTF 2019]childRSA/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/57.[NCTF 2019]childRSA/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/57.[NCTF 2019]childRSA/exp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/57.[NCTF 2019]childRSA/exp2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/58.[HGAME 2022 week2]RSA Attack2/exp3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/58.[HGAME 2022 week2]RSA Attack2/题目" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/58.[HGAME 2022 week2]RSA Attack2/题目" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/timu" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/74.[NSSCTF 2022 Spring Recruit]rrrsssaaa/timu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/93.[HGAME 2022 week1]Easy RSA/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/93.[HGAME 2022 week1]Easy RSA/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.RSA_基础分类/99.不好分类/93.[HGAME 2022 week1]Easy RSA/timu" beforeDir="false" afterPath="$PROJECT_DIR$/1.RSA_基础分类/999.不好分类/93.[HGAME 2022 week1]Easy RSA/timu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/1.中国剩余定理/1.中国剩余定理_广播攻击/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.RSA_2023线下培训/1.2023年10月_RSA进阶培训/1.中国剩余定理/1.中国剩余定理_广播攻击/exp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,39 +66,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.e=1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp2 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pub 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rabin1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rabin2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rabin3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rsa12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.出题.executor&quot;: &quot;Run&quot;,
-    &quot;Python.题目 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.题目 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.题目.executor&quot;: &quot;Run&quot;,
-    &quot;Python.题目1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/3.python/1.py3-gitee/ctf_tm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.e=1.executor": "Run",
+    "Python.exp (1).executor": "Run",
+    "Python.exp (2).executor": "Run",
+    "Python.exp (3).executor": "Run",
+    "Python.exp.executor": "Run",
+    "Python.exp1.executor": "Run",
+    "Python.exp2 (1).executor": "Run",
+    "Python.exp2 (2).executor": "Run",
+    "Python.exp2.executor": "Run",
+    "Python.pub 2.executor": "Run",
+    "Python.rabin1.executor": "Run",
+    "Python.rabin2.executor": "Run",
+    "Python.rabin3.executor": "Run",
+    "Python.rsa12.executor": "Run",
+    "Python.t1.executor": "Run",
+    "Python.task.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.出题.executor": "Run",
+    "Python.题目 (1).executor": "Run",
+    "Python.题目 (2).executor": "Run",
+    "Python.题目.executor": "Run",
+    "Python.题目1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/3.python/1.py3-gitee/f2x_rsa/1.RSA_基础分类/102.费马小定理",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\3.python\1.py3-gitee\f2x_rsa\1.RSA_基础分类\21.手撕密钥\[GHCTF 2024 新生赛]Crypto2042" />
@@ -345,7 +311,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714700770339</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1714734563827</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714734563827</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1714734685759</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714734685759</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

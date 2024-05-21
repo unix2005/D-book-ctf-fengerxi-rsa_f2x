@@ -1,15 +1,17 @@
 
 
 from Crypto.Util.number import *
-from libnum import *
-key = 'aa'
+import libnum
+import uuid
+flag = "flag{" + str(uuid.uuid4()) + "}"
+m = libnum.s2n(flag)
 
 p = getPrime(512)
 q = getPrime(512)
 n = p*p*q
 e = n
 
-c = pow(s2n(key), n, n)
+c = pow(m, n, n)
 d = inverse(n, (p-1)*(q-1))
 
 

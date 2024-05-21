@@ -1,0 +1,4 @@
+
+n=m%key
+k*key=m-n
+使用sage的divisors()函数可以得到k*key的所有因子组合，然后我们遍历一下符合题目要求的因子即可找到key

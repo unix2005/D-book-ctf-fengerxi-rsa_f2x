@@ -1,0 +1,26 @@
+key1= pow(g1,a1*(p-1),n)
+c=(pow(key1,b,n)*m)%n
+
+n,key1,c
+
+设ga=g1^a1
+key1=ga^(p-1)%n
+key1=ga^p-1+kn
+#两边同时莫p
+key1%p=1
+#利用公约数求p
+p=gcd（key1-1,n）
+
+c=((key1^b*m)%n
+#设ga=g1^a1
+#因为key1=ga^(p-1)%n 代入
+
+c=((ga^(p-1)%n)^b%n)*m)%n
+#(ga^(p-1)%n)^b%n)变形为((ga^b)^(p-1)%n)
+#设(ga^b)为 gab
+c=(gab^(p-1)%n*m)%n
+c=gab^(p-1)*m+kn
+#两边同时莫p
+c%p=m%p
+#m<p
+c%p=m

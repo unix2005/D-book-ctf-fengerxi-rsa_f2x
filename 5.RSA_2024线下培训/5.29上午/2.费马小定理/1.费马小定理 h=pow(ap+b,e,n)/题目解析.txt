@@ -1,0 +1,55 @@
+
+
+费马小定理
+a,素数p，a不能是p的倍数
+1.a^p%p=a%p
+2.a^p-1%p=1
+
+a^p%p=a%p
+#a^p//a%p=a//a%p
+#a^p*inmod(a,p)=a*inmod(a,p)%p
+#逆元 a^1*a^-1%p=1
+# a^1*a^-1 => a^(1+(-1))=a^0=1
+
+a^p*a^-1%p=a*a^-1%p
+a^p*a^-1%p=a^0%p
+a^(p-1)%p=1%p
+
+
+a^p%p=a%p
+a^(p-1)%p=1
+
+
+#推导过程
+h = 20233202
+hc = pow(h + p * 2023, e, n)
+hc%n=(h+2023p)^e%n
+#展开
+hc=(h+2023p)^e+kn
+#两边同时模上p
+hc%p=(h+2023p)^e%p+kn%p
+#n=pq
+
+hc%p=(h+2023p)^e%p
+hc%p=(h^e+k1ph+2023p^e)%p
+#(a+b)^2=> a^2+2ab+b^2
+#(a+b)^3=> (a^2+2ab+b^2)(a+b)=>a^3+2aab+b^2a+a^2b+2abb+b^3
+#a^3+2aab+b^2a+a^2b+2abb+b^3
+#2aab+b^2a+a^2b+2abb=>kab
+#a^3+kab+b^3
+=> a^e+kab+b^e
+
+hc%p=(h^e+k1p+2023p^e)%p
+
+hc=(h^e+k1p+2023p^e)+k2p
+hc=h^e+2023p^e+kp
+h^e-hc=2023p^e+kp
+#2023p^e+kp =>  kp
+
+h^e-hc=kp
+p=gcd(h^e-hc,n)
+q=n//p
+
+#常规的rsa解密
+phi=> d =>m
+

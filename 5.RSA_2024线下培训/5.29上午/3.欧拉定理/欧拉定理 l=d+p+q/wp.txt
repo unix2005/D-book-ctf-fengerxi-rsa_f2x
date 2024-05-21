@@ -1,0 +1,30 @@
+
+leak = d+p+q
+
+m=pow(c,d,n)
+
+
+l= d+p+q
+c^d%n=m
+l= d+p+q
+d=l-(p+q)
+c^[l-(p+q)]%n=m
+c^l*c^[-(p+q)]%n=m
+
+c^(p+q)%n=?
+因为 phi=(p-1)*(q-1)
+phi=pq+1-p-q
+phi=n+1-(p+q)
+根据欧拉定理
+a^phi%n=1
+
+c^phi%n=1
+c^[n+1-(p+q)]%n=1
+c^(n+1)*c^[-(p+q)]%n=1
+c^(n+1)*c^[-(p+q)]%n*c^(p+q)%n=1*c^(p+q)%n
+结论：c^(n+1)%n=c^(p+q)%n
+
+c^l*c^[-(n+1)]%n=m
+c^[l-(n+1)]%n=m
+
+c^(l-n-1)%n=m

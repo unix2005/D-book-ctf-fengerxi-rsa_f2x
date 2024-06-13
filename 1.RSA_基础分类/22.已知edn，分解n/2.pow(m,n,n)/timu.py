@@ -10,11 +10,9 @@ p = getPrime(512)
 q = getPrime(512)
 n = p*p*q
 
-
 c = pow(m, n, n)
 d = inverse(n, (p-1)*(q-1))
-
-
 print(f'n = {n}')
 print(f'd = {d}')
 print(f'c = {c}')
+

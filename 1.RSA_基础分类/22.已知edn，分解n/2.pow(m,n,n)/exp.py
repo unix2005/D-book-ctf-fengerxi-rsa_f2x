@@ -9,3 +9,5 @@ pq=libnum.gcd(pow(2,d*n,n)-2,n)
 print(pq)
 m=pow(c,d,pq)
 print(libnum.n2s(m))
+
+
